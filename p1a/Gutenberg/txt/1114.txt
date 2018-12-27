@@ -1,0 +1,695 @@
+
+WILLIAM HARVEY AND THE DISCOVERY OF THE CIRCULATION OF THE BLOOD
+
+By Thomas H. Huxley
+
+
+[1]
+
+
+
+I DESIRE this evening to give you some account of the life and labours
+of a very noble Englishman--William Harvey.
+
+William Harvey was born in the year 1578, and as he lived until the year
+1657, he very nearly attained the age of 80. He was the son of a small
+landowner in Kent, who was sufficiently wealthy to send this, his eldest
+son, to the University of Cambridge; while he embarked the others in
+mercantile pursuits, in which they all, as time passed on, attained
+riches.
+
+William Harvey, after pursuing his education at Cambridge, and taking
+his degree there, thought it was advisable--and justly thought so, in
+the then state of University education--to proceed to Italy, which
+at that time was one of the great centres of intellectual activity in
+Europe, as all friends of freedom hope it will become again, sooner or
+later. In those days the University of Padua had a great renown;
+and Harvey went there and studied under a man who was then very
+famous--Fabricius of Aquapendente. On his return to England, Harvey
+became a member of the College of Physicians in London, and entered into
+practice; and, I suppose, as an indispensable step thereto, proceeded
+to marry. He very soon became one of the most eminent members of the
+profession in London; and, about the year 1616, he was elected by the
+College of Physicians their Professor of Anatomy. It was while Harvey
+held this office that he made public that great discovery of the
+circulation of the blood and the movements of the heart, the nature of
+which I shall endeavour by-and-by to explain to you at length. Shortly
+afterwards, Charles the First having succeeded to the throne in 1625,
+Harvey became one of the king's physicians; and it is much to the credit
+of the unfortunate monarch--who, whatever his faults may have been,
+was one of the few English monarchs who have shown a taste for art and
+science--that Harvey became his attached and devoted friend as well
+as servant; and that the king, on the other hand, did all he could to
+advance Harvey's investigations. But, as you know, evil times came on;
+and Harvey, after the fortunes of his royal master were broken,
+being then a man of somewhat advanced years--over 60 years of age, in
+fact--retired to the society of his brothers in and near London, and
+among them pursued his studies until the day of his death. Harvey's
+career is a life which offers no salient points of interest to the
+biographer. It was a life devoted to study and investigation; and it
+was a life the devotion of which was amply rewarded, as I shall have
+occasion to point out to you, by its results.
+
+Harvey, by the diversity, the variety, and the thoroughness of his
+investigations, was enabled to give an entirely new direction to at
+least two branches--and two of the most important branches--of what
+now-a-days we call Biological Science. On the one hand, he founded
+all our modern physiology by the discovery of the exact nature of the
+motions of the heart, and of the course in which the blood is propelled
+through the body; and, on the other, he laid the foundation of that
+study of development which has been so much advanced of late years, and
+which constitutes one of the great pillars of the doctrine of evolution.
+This doctrine, I need hardly tell you, is now tending to revolutionise
+our conceptions of the origin of living things, exactly in the same
+way as Harvey's discovery of the circulation in the seventeeth century
+revolutionised the conceptions which men had previously entertained with
+regard to physiological processes.
+
+It would, I regret, be quite impossible for me to attempt, in the course
+of the time I can presume to hold you here, to unfold the history of
+more than one of these great investigations of Harvey. I call them
+"great investigations," as distinguished from "large publications." I
+have in my hand a little book, which those of you who are at a great
+distance may have some difficulty in seeing, and which I value very
+much. It is, I am afraid, sadly thumbed and scratched with annotations
+by a very humble successor and follower of Harvey. This little book is
+the edition of 1651 of the 'Exercitationes de Generatione'; and if you
+were to add another little book, printed in the same small type, and
+about one-seventh of the thickness, you would have the sum total of the
+printed matter which Harvey contributed to our literature. And yet
+in that sum total was contained, I may say, the materials of two
+revolutions in as many of the main branches of biological science. If
+Harvey's published labours can be condensed into so small a compass, you
+must recollect that it is not because he did not do a great deal more.
+We know very well that he did accumulate a very considerable number of
+observations on the most varied topics of medicine, surgery, and natural
+history. But, as I mentioned to you just now, Harvey, for a time, took
+the royal side in the domestic quarrel of the Great Rebellion, as it
+is called; and the Parliament, not unnaturally resenting that action of
+his, sent soldiers to seize his papers. And while I imagine they found
+nothing treasonable among those papers, yet, in the process of rummaging
+through them, they destroyed all the materials which Harvey had spent a
+laborious life in accumulating; and hence it is that the man's work and
+labours are represented by so little in apparent bulk.
+
+What I chiefly propose to do to-night is to lay before you an account of
+the nature of the discovery which Harvey made, and which is termed the
+Discovery of the Circulation of the Blood. And I desire also, with
+some particularity, to draw your attention to the methods by which that
+discovery was achieved; for, in both these respects, I think, there will
+be much matter for profitable reflection.
+
+Let me point out to you, in the first place, with respect to this
+important matter of the movements of the heart and the course of the
+blood in the body, that there is a certain amount of knowledge
+which must have been obtained without men taking the trouble to seek
+it--knowledge which must have been taken in, in the course of time,
+by everybody who followed the trade of a butcher, and still more so by
+those people who, in ancient times, professed to divine the course of
+future events from the entrails of animals. It is quite obvious to
+all, from ordinary accidents, that the bodies of all the higher animals
+contain a hot red fluid--the blood. Everybody can see upon the surface
+of some part of the skin, underneath that skin, pulsating tubes, which
+we know as the arteries. Everybody can see under the surface of the skin
+more delicate and softer looking tubes, which do not pulsate, which are
+of a bluish colour, and are termed the veins. And every person who has
+seen a recently killed animal opened knows that these two kinds of tubes
+to which I have just referred, are connected with an apparatus which
+is placed in the chest, which apparatus, in recently killed animals,
+is still pulsating. And you know that in yourselves you can feel the
+pulsation of this organ, the heart, between the fifth and sixth ribs. I
+take it that this much of anatomy and physiology has been known from the
+oldest times, not only as a matter of curiosity, but because one of the
+great objects of men, from their earliest recorded existence, has been
+to kill one another, and it was a matter of considerable importance to
+know which was the best place for hitting an enemy. I can refer you to
+very ancient records for most precise and clear information that one of
+the best places is to smite him between the fifth and sixth ribs. Now
+that is a very good piece of regional anatomy, for that is the place
+where the heart strikes in its pulsations, and the use of smiting there
+is that you go straight to the heart. Well, all that must have been
+known from time immemorial--at least for 4,000 or 5,000 years before the
+commencement of our era--because we know that for as great a period as
+that the Egyptians, at any rate, whatever may have been the case with
+other people, were in the enjoyment of a highly developed civilisation.
+But of what knowledge they may have possessed beyond this we know
+nothing; and in tracing back the springs of the origin of everything
+that we call "modern science" (which is not merely knowing, but knowing
+systematically, and with the intention and endeavour to find out
+the causal connection of things)--I say that when we trace back the
+different lines of all the modern sciences we come at length to one
+epoch and to one country--the epoch being about the fourth and fifth
+centuries before Christ, and the country being ancient Greece. It is
+there that we find the commencement and the root of every branch of
+physical science and of scientific method. If we go back to that time
+we have in the works attributed to Aristotle, who flourished between 300
+and 400 years before Christ, a sort of encyclopaedia of the scientific
+knowledge of that day--and a very marvellous collection of, in many
+respects, accurate and precise knowledge it is. But, so far as regards
+this particular topic, Aristotle, it must be confessed, has not got very
+far beyond common knowledge. He knows a little about the structure of
+the heart. I do not think that his knowledge is so inaccurate as many
+people fancy, but it does not amount to much. A very few years after his
+time, however, there was a Greek philosopher, Erasistratus, who lived
+about three hundred years before Christ, and who must have pursued
+anatomy with much care, for he made the important discovery that there
+are membranous flaps, which are now called "valves," at the origins
+of the great vessels; and that there are certain other valves in the
+interior of the heart itself.
+
+Fig. 1.--The apparatus of the circulation, as at present known. The
+capillary vessels, which connect the arteries and veins, are omitted, on
+account of their small size. The shading of the "venous system" is given
+to all the vessels which contain venous blood; that of the "arterial
+system" to all the vessels which contain arterial blood.
+
+I have here (Fig. 1) a purposely rough, but, so far as it goes,
+accurate, diagram of the structure of the heart and the course of the
+blood. The heart is supposed to be divided into two portions. It would
+be possible, by very careful dissection, to split the heart down the
+middle of a partition, or so-called 'septum', which exists in it, and to
+divide it into the two portions which you see here represented; in which
+case we should have a left heart and a right heart, quite distinct from
+one another. You will observe that there is a portion of each heart
+which is what is called the ventricle. Now the ancients applied the term
+'heart' simply and solely to the ventricles. They did not count the rest
+of the heart--what we now speak of as the 'auricles'--as any part of the
+heart at all; but when they spoke of the heart they meant the left and
+the right ventricles; and they described those great vessels, which we
+now call the 'pulmonary veins' and the 'vena cava', as opening directly
+into the heart itself.
+
+What Erasistratus made out was that, at the roots of the aorta and
+the pulmonary artery (Fig. 1) there were valves, which opened in the
+direction indicated by the arrows; and, on the other hand, that at the
+junction of what he called the veins with the heart there were other
+valves, which also opened again in the direction indicated by the
+arrows. This was a very capital discovery, because it proved that if
+the heart was full of fluid, and if there were any means of causing that
+fluid in the ventricles to move, then the fluid could move only in
+one direction; for you will observe that, as soon as the fluid is
+compressed, the two valves between the ventricles and the veins will be
+shut, and the fluid will be obliged to move into the arteries; and,
+if it tries to get back from them into the heart, it is prevented from
+doing so by the valves at the origin of the arteries, which we now
+call the semilunar valves (half-moon shaped valves); so that it is
+impossible, if the fluid move at all, that it should move in any other
+way than from the great veins into the arteries. Now that was a very
+remarkable and striking discovery.
+
+But it is not given to any man to be altogether right (that is a
+reflection which it is very desirable for every man who has had the good
+luck to be nearly right once, always to bear in mind); and Erasistratus,
+while he made this capital and important discovery, made a very capital
+and important error in another direction, although it was a very natural
+error. If, in any animal which is recently killed, you open one of those
+pulsating trunks which I referred to a short time ago, you will find, as
+a general rule, that it either contains no blood at all or next to none;
+but that, on the contrary, it is full of air. Very naturally, therefore,
+Erasistratus came to the conclusion that this was the normal and natural
+state of the arteries, and that they contained air. We are apt to think
+this a very gross blunder; but, to anybody who is acquainted with
+the facts of the case, it is, at first sight, an exceedingly natural
+conclusion. Not only so, but Erasistratus might have very justly
+imagined that he had seen his way to the meaning of the connection of
+the left side of the heart with the lungs; for we find that what we now
+call the pulmonary vein is connected with the lungs, and branches out in
+them (Fig. 1). Finding that the greater part of this system of vessels
+was filled with air after death, this ancient thinker very shrewdly
+concluded that its real business was to receive air from the lungs, and
+to distribute that air all through the body, so as to get rid of the
+grosser humours and purify the blood. That was a very natural and very
+obvious suggestion, and a highly ingenious one, though it happened to be
+a great error. You will observe that the only way of correcting it was
+to experiment upon living animals, for there is no other way in which
+this point could be settled.
+
+Fig.2,--The Course of the Blood according to Galen (A.D. 170).
+
+And hence we are indebted, for the correction of the error of
+Erasistratus, to one of the greatest experimenters of ancient or modern
+times, Claudius Galenus, who lived in the second century after Christ. I
+say it was to this man more than any one else, because he knew that the
+only way of solving physiological problems was to examine into the facts
+in the living animal. And because Galen was a skilful anatomist, and
+a skilful experimenter, he was able to show in what particulars
+Erasistratus had erred, and to build up a system of thought upon this
+subject which was not improved upon for fully 1,300 years. I have
+endeavoured, in Fig. 2, to make clear to you exactly what it was he
+tried to establish. You will observe that this diagram is practically
+the same as that given in Fig. 1, only simplified. The same facts may
+be looked upon by different people from different points of view. Galen
+looked upon these facts from a very different point of view from that
+which we ourselves occupy; but, so far as the facts are concerned, they
+were the same for him as for us. Well then, the first thing that Galen
+did was to make out experimentally that, during life, the arteries are
+not full of air, but that they are full of blood. And he describes a
+great variety of experiments which he made upon living animals with the
+view of proving this point, which he did prove effectually and for all
+time; and that you will observe was the only way of settling the matter.
+Furthermore, he demonstrated that the cavities of the left side of the
+heart--what we now call the left auricle and the left ventricle--are,
+like the arteries, full of blood during life, and that that blood was of
+the scarlet kind--arterialised, or as he called it "pneumatised," blood.
+It was known before, that the pulmonary artery, the right ventricle,
+and the veins, contain the darker kind of blood, which was thence called
+venous. Having proved that the whole of the left side of the heart,
+during life, is full of scarlet arterial blood, Galen's next point
+was to inquire into the mode of communication between the arteries
+and veins. It was known before his time that both arteries and veins
+branched out. Galen maintained, though he could not prove the fact, that
+the ultimate branches of the arteries and veins communicated together
+somehow or other, by what he called 'anastomoses', and that these
+'anastomoses' existed not only in the body in general but also in the
+lungs. In the next place, Galen maintained that all the veins of
+the body arise from the liver; that they draw the blood thence and
+distribute it over the body. People laugh at that notion now-a-days; but
+if anybody will look at the facts he will see that it is a very probable
+supposition. There is a great vein (hepatic vein--Fig. 1) which rises
+out of the liver, and that vein goes straight into the 'vena cava' (Fig.
+1) which passes to the heart, being there joined by the other veins
+of the body. The liver itself is fed by a very large vein (portal
+vein--Fig. 1), which comes from the alimentary canal. The way the
+ancients looked at this matter was, that the food, after being received
+into the alimentary canal, was then taken up by the branches of this
+great vein, which are called the 'vena portae', just as the roots of a
+plant suck up nourishment from the soil in which it lives; that then it
+was carried to the liver, there to be what was called "concocted," which
+was their phrase for its conversion into substances more fitted for
+nutrition than previously existed in it. They then supposed that the
+next thing to be done was to distribute this fluid through the body; and
+Galen like his predecessors, imagined that the "concocted" blood, having
+entered the great 'vena cava', was distributed by its ramifications all
+over the body. So that, in his view (Fig. 2), the course of the blood
+was from the intestine to the liver, and from the liver into the great
+'vena cava', including what we now call the right auricle of the heart,
+whence it was distributed by the branches of the veins. But the whole of
+the blood was not thus disposed of. Part of the blood, it was supposed,
+went through what we now call the pulmonary arteries (Fig. 1), and,
+branching out there, gave exit to certain "fuliginous" products, and
+at the same time took in from the air a something which Galen calls the
+'pneuma'. He does not know anything about what we call oxygen; but it
+is astonishing how very easy it would be to turn his language into the
+equivalent of modern chemical theory. The old philosopher had so just
+a suspicion of the real state of affairs that you could make use of his
+language in many cases, if you substituted the word "oxygen," which we
+now-a-days use, for the word 'pneuma'. Then he imagined that the blood,
+further concocted or altered by contact with the 'pneuma', passed to
+a certain extent to the left side of the heart. So that Galen believed
+that there was such a thing as what is now called the pulmonary
+circulation. He believed, as much as we do, that the blood passed
+through the right side of the heart, through the artery which goes to
+the lungs, through the lungs themselves, and back by what we call the
+pulmonary veins to the left side of the heart. But he thought it was
+only a very small portion of the blood which passes to the right side of
+the heart in this way; the rest of the blood, he thought, passed through
+the partition which separates the two ventricles of the heart. He
+describes a number of small pits, which really exist there, as holes,
+and he supposed that the greater part of the blood passed through these
+holes from the right to the left ventricle (Fig 2).
+
+It is of great importance you should clearly understand these teachings
+of Galen, because, as I said just now, they sum up all that anybody knew
+until the revival of learning; and they come to this--that the blood
+having passed from the stomach and intestines through the liver, and
+having entered the great veins, was by them distributed to every part of
+the body; that part of the blood, thus distributed, entered the arterial
+system by the 'anastomoses', as Galen called them, in the lungs; that
+a very small portion of it entered the arteries by the 'anastomoses' in
+the body generally; but that the greater part of it passed through the
+septum of the heart, and so entered the left side and mingled with the
+pneumatised blood, which had been subjected to the air in the lungs,
+and was then distributed by the arteries, and eventually mixed with the
+currents of blood, coming the other way, through the veins.
+
+Yet one other point about the views of Galen. He thought that both the
+contractions and dilatations of the heart--what we call the 'systole'
+or contraction of the heart, and the 'diastole' or dilatation--Galen
+thought that these were both active movements; that the heart actively
+dilated, so that it had a sort of sucking power upon the fluids which
+had access to it. And again, with respect to the movements of the pulse,
+which anybody can feel at the wrist and elsewhere, Galen was of opinion
+that the walls of the arteries partook of that which he supposed to be
+the nature of the walls of the heart, and that they had the power of
+alternately actively contracting and actively dilating, so that he is
+careful to say that the nature of the pulse is comparable, not to the
+movement of a bag, which we fill by blowing into it, and which we empty
+by drawing the air out of it, but to the action of a bellows, which is
+actively dilated and actively compressed.
+
+Fig 3.--The course of the blood from the right to the left side of the
+heart (Realdus Columbus, 1559).
+
+After Galen's time came the collapse of the Roman Empire, the extinction
+of physical knowledge, and the repression of every kind of scientific
+inquiry, by its powerful and consistent enemy, the Church; and that
+state of things lasted until the latter part of the Middle Ages saw the
+revival of learning. That revival of learning, so far as anatomy
+and physiology are concerned, is due to the renewed influence of
+the philosophers of ancient Greece, and indeed, of Galen. Arabic
+commentators had translated Galen, and portions of his works had got
+into the language of the learned in the Middle Ages, in that way;
+but, by the study of the classical languages, the original text became
+accessible to the men who were then endeavouring to learn for themselves
+something about the facts of nature. It was a century or more before
+these men, finding themselves in the presence of a master--finding that
+all their lives were occupied in attempting to ascertain for themselves
+that which was familiar to him--I say it took the best part of a hundred
+years before they could fairly see that their business was not to follow
+him, but to follow his example--namely, to look into the facts of nature
+for themselves, and to carry on, in his spirit, the work he had begun.
+That was first done by Vesalius, one of the greatest anatomists who ever
+lived; but his work does not specially bear upon the question we are
+now concerned with. So far as regards the motions of the heart and the
+course of the blood, the first man in the Middle Ages, and indeed the
+only man who did anything which was of real importance, was one Realdus
+Columbus, who was professor at Padua in the year 1559, and published a
+great anatomical treatise. What Realdus Columbus did was this; once
+more resorting to the method of Galen, turning to the living animal,
+experimenting, he came upon new facts, and one of these new facts was
+that there was not merely a subordinate communication between the blood
+of the right side of the heart and that of the left side of the heart,
+through the lungs, but that there was a constant steady current of
+blood, setting through the pulmonary artery on the right side, through
+the lungs, and back by the pulmonary veins to the left side of the heart
+(Fig.3). Such was the capital discovery and demonstration of Realdus
+Columbus. He is the man who discovered what is loosely called the
+'pulmonary circulation'; and it really is quite absurd, in the face of
+the fact, that twenty years afterwards we find Ambrose Pare, the great
+French surgeon, ascribing this discovery to him as a matter of common
+notoriety, to find that attempts are made to give the credit of it to
+other people. So far as I know, this discovery of the course of the
+blood through the lungs, which is called the pulmonary circulation, is
+the one step in real advance that was made between the time of Galen
+and the time of Harvey. And I would beg you to note that the word
+"circulation" is improperly employed when it is applied to the course of
+the blood through the lungs. The blood from the right side of the
+heart, in getting to the left side of the heart, only performs a
+half-circle--it does not perform a whole circle--it does not return
+to the place from whence it started; and hence the discovery of the
+so-called "pulmonary circulation" has nothing whatever to do with that
+greater discovery which I shall point out to you by-and-by was made
+by Harvey, and which is alone really entitled to the name of the
+circulation of the blood.
+
+If anybody wants to understand what Harvey's great desert really was,
+I would suggest to him that he devote himself to a course of reading,
+which I cannot promise shall be very entertaining, but which, in this
+respect at any rate, will be highly instructive--namely, the works of
+the anatomists of the latter part of the 16th century and the beginning
+of the 17th century. If anybody will take the trouble to do that which
+I have thought it my business to do, he will find that the doctrines
+respecting the action of the heart and the motion of the blood which
+were taught in every university in Europe, whether in Padua or in Paris,
+were essentially those put forward by Galen, 'plus' the discovery of the
+pulmonary course of the blood which had been made by Realdus Columbus.
+In every chair of anatomy and physiology (which studies were not then
+separated) in Europe, it was taught that the blood brought to the liver
+by the portal vein, and carried out of the liver to the 'vena cava'
+by the hepatic vein, is distributed from the right side of the heart,
+through the other veins, to all parts of the body; that the blood of the
+arteries takes a like course from the heart towards the periphery; and
+that it is there, by means of the 'anastomoses', more or less mixed up
+with the venous blood. It so happens, by a curious chance, that up to
+the year 1625 there was at Padua, which was Harvey's own university, a
+very distinguished professor, Spigelius, whose work is extant, and who
+teaches exactly what I am now telling you. It is perfectly true
+that, some time before, Harvey's master, Fabricius, had not only
+re-discovered, but had drawn much attention to certain pouch-like
+structures, which are called the valves of the veins, found in the
+muscular parts of the body, all of which are directed towards the heart,
+and consequently impede the flow of the blood in the opposite direction.
+And you will find it stated by people who have not thought much about
+the matter, that it was this discovery of the valves of the veins which
+led Harvey to imagine the course of the circulation of the blood. Now
+it did not lead Harvey to imagine anything of the kind. He had heard
+all about it from his master, Fabricius, who made a great point of
+these valves in the veins, and he had heard the theories which Fabricius
+entertained upon the subject, whose impression as to the use of the
+valves was simply this--that they tended to take off any excess of
+pressure of the blood in passing from the heart to the extremities; for
+Fabricius believed, with the rest of the world, that the blood in the
+veins flowed from the heart towards the extremities. This, under the
+circumstances, was as good a theory as any other, because the action of
+the valves depends altogether upon the form and nature of the walls
+of the structures in which they are attached; and without accurate
+experiment, it was impossible to say whether the theory of Fabricius
+was right or wrong. But we not only have the evidence of the facts
+themselves that these could tell Harvey nothing about the circulation,
+but we have his own distinct declaration as to the considerations which
+led him to the true theory of the circulation of the blood, and amongst
+these the valves of the veins are not mentioned.
+
+Fig. 4.--The circulation of the blood as demonstrated by Harvey (A.D.
+1628).
+
+Now then we may come to Harvey himself. When you read Harvey's treatise,
+which is one of the most remarkable scientific monographs with which I
+am acquainted--it occupies between 50 and 60 pages of a small quarto in
+Latin, and is as terse and concise as it possibly can be--when you come
+to look at Harvey's work, you will find that he had long struggled with
+the difficulties of the accepted doctrine of the circulation. He had
+received from Fabricius, and from all the great authorities of the day,
+the current view of the circulation of the blood. But he was a man
+with that rarest of all qualities--intellectual honesty; and by dint of
+cultivating that great faculty, which is more moral than intellectual,
+it had become impossible for him to say he believed anything which he
+did not clearly believe. This is a most uncomfortable peculiarity--for
+it gets you into all sorts of difficulties with all sorts of
+people--but, for scientific purposes, it is absolutely invaluable.
+Harvey possessed this peculiarity in the highest degree, and so it was
+impossible for him to accept what all the authorities told him, and he
+looked into the matter for himself. But he was not hasty. He worked at
+his new views, and he lectured about them at the College of Physicians
+for nine years; he did not print them until he was a man of fifty
+years of age; and when he did print them he accompanied them with a
+demonstration which has never been shaken, and which will stand till the
+end of time. What Harvey proved, in short, was this (see Fig. 4)--that
+everybody had made a mistake, for want of sufficiently accurate
+experimentation as to the actual existence of the fact which everybody
+assumed. To anybody who looks at the blood-vessels with an unprejudiced
+eye it seems so natural that the blood should all come out of the liver,
+and be distributed by the veins to the different parts of the body, that
+nothing can seem simpler or more plain; and consequently no one could
+make up his mind to dispute this apparently obvious assumption. But
+Harvey did dispute it; and when he came to investigate the matter he
+discovered that it was a profound mistake, and that, all this time, the
+blood had been moving in just the opposite direction, namely, from the
+small ramifications of the veins towards the right side of the heart.
+Harvey further found that, in the arteries, the blood, as had previously
+been known, was travelling from the greater trunks towards the
+ramifications. Moreover, referring to the ideas of Columbus and of Galen
+(for he was a great student of literature, and did justice to all his
+predecessors), Harvey accepts and strengthens their view of the course
+of the blood through the lungs, and he shows how it fitted into his
+general scheme. If you will follow the course of the arrows in Fig. 4
+you will see at once that--in accordance with the views of Columbus--the
+blood passes from the right side of the heart, through the lungs, to the
+left side. Then, adds Harvey, with abundant proof, it passes through the
+arteries to all parts of the body; and then, at the extremities of their
+branches in the different parts of the body, it passes (in what way he
+could not tell, for his means of investigation did not allow him to say)
+into the roots of the vents--then from the roots of the veins it goes
+into the trunk and veins--then to the right side of the heart--and then
+to the lungs, and so on.
+
+That, you will observe, makes a complete circuit; and it was precisely
+here that the originality of Harvey lay. There never yet has been
+produced, and I do not believe there can be produced, a tittle of
+evidence to show that, before his time, any one had the slightest
+suspicion that a single drop of blood, starting in the left ventricle of
+the heart, passes through the whole arterial system, comes back through
+the venous system, goes through the lungs, and comes back to the place
+whence it started. But that is the circulation of the blood, and it was
+exactly this which Harvey was the first man to suspect, to discover, and
+to demonstrate.
+
+But this was by no means the only thing Harvey did. He was the first
+who discovered and who demonstrated the true mechanism of the heart's
+action. No one, before his time, conceived that the movement of the
+blood was entirely due to the mechanical action of the heart as a pump.
+There were all sorts of speculations about the matter, but nobody had
+formed this conception, and nobody understood that the so-called
+systole of the heart is a state of active contraction, and the so-called
+diastole is a mere passive dilatation. Even within our own age that
+matter had been discussed. Harvey is as clear as possible about it. He
+says the movement of the blood is entirely due to the contractions of
+the walls of the heart--that it is the propelling apparatus--and all
+recent investigation tends to show that he was perfectly right. And from
+this followed the true theory of the pulse. Galen said, as I pointed
+out just now, that the arteries dilate as bellows, which have an active
+power of dilatation and contraction, and not as bags which are blown
+out and collapse. Harvey said it was exactly the contrary--the arteries
+dilate as bags simply because the stroke of the heart propels the blood
+into them; and, when they relax again, they relax as bags which are no
+longer stretched, simply because the force of the blow of the heart
+is spent. Harvey has been demonstrated to be absolutely right in this
+statement of his; and yet, so slow is the progress of truth, that,
+within my time, the question of the active dilatation of the arteries
+has been discussed.
+
+Thus Harvey's contributions to physiology may be summed up as follows:
+In the first place, he was the first person who ever imagined, and still
+more who demonstrated, the true course of the circulation of the blood
+in the body; in the second place, he was the first person who ever
+understood the mechanism of the heart, and comprehended that its
+contraction was the cause of the motion of the blood; and thirdly, he
+was the first person who took a just view of the nature of the pulse.
+These are the three great contributions which he made to the science of
+physiology; and I shall not err in saying--I speak in the presence of
+distinguished physiologists, but I am perfectly certain that they will
+endorse what I say--that upon that foundation the whole of our knowledge
+of the human body, with the exception of the motor apparatus and the
+sense organs, has been gradually built up, and that upon that foundation
+the whole rests. And not only does scientific physiology rest upon
+it, but everything like scientific medicine also rests upon it. As
+you know--I hope it is now a matter of popular knowledge--it is the
+foundation of all rational speculation about morbid processes; it is
+the only key to the rational interpretation of that commonest of
+all indications of disease, the state of the pulse; so that, both
+theoretically and practically, this discovery, this demonstration of
+Harvey's, has had an effect which is absolutely incalculable, and the
+consequences of which will accumulate from age to age until they result
+in a complete body of physiological science.
+
+Fig.5.--The junction of the arteries and veins by capillary tubes,
+discovered by Malpighi (A.D. 1664).
+
+I regret that I am unable to pursue this subject much further; but there
+is one point I should mention. In Harvey's time, the microscope was
+hardly invented. It is quite true that in some of his embryological
+researches he speaks of having made use of a hand glass; but that
+was the most that he seems to have known anything about, or that was
+accessible to him at that day. And so it came about, that, although he
+examined the course of the blood in many of the lower animals--watched
+the pulsation of the heart in shrimps, and animals of that kind--he
+never could put the final coping-stone on his edifice. He did not know
+to the day of his death, although quite clear about the fact that
+the arteries and the veins do communicate, how it is that they
+communicate--how it was that the blood of the arteries passed into the
+veins. One is grieved to think that the grand old man should have gone
+down to his tomb without the vast satisfaction it would have given to
+him to see what the Italian naturalist Malpighi showed only seven years
+later, in 1664, when he demonstrated, in a living frog, the actual
+passage of the blood from the ultimate ramifications of the arteries
+into the veins. But that absolute ocular demonstration of the truth of
+the views he had maintained throughout his life it was not granted to
+Harvey to see. What he did experience was this: that on the publication
+of his doctrines, they were met with the greatest possible opposition;
+and I have no doubt savage things were uttered in those old
+controversies, and that a great many people said that these new-fangled
+doctrines, reducing living processes to mere mechanism, would sap the
+foundations of religion and morality. I do not know for certain that
+they did, but they said things very like it. The first point was to
+show that Harvey's views were absolutely untrue; and not being able to
+succeed in that, opponents said they were not new; and not being able to
+succeed in that, that they didn't matter. That is the usual course with
+all new discoveries. But Harvey troubled himself very little about these
+things. He remained perfectly quiet; for although reputed a hot-tempered
+man, he never would have anything to do with controversy if he could
+help it; and he only replied to one of his antagonists after twenty
+years' interval, and then in the most charming spirit of candour and
+moderation. But he had the great satisfaction of living to see his
+doctrine accepted upon all sides. At the time of his death, there
+was not an anatomical school in Europe in which the doctrine of the
+circulation of the blood was not taught in the way in which Harvey had
+laid it down. In that respect he had a happiness which is granted to
+very few men.
+
+I have said that the other great investigation of Harvey is not one
+which can be dealt with to a general audience. It is very complex, and
+therefore I must ask you to take my word for it that, although not so
+fortunate an investigation, not so entirely accordant with later results
+as the doctrine of the circulation; yet that still, this little treatise
+of Harvey's has in many directions exerted an influence hardly less
+remarkable than that exerted by the Essay upon the Circulation of the
+Blood.
+
+And now let me ask your attention to two or three closing remarks.
+
+If you look back upon that period of about 100 years which commences
+with Harvey's birth--I mean from the year 1578 to 1680 or thereabouts--I
+think you will agree with me, that it constitutes one of the most
+remarkable epochs in the whole of that thousand years which we
+may roughly reckon as constituting the history of Britain. In the
+commencement of that period, we may see, if not the setting, at any rate
+the declension of that system of personal rule which had existed under
+previous sovereigns, and which, after a brief and spasmodic revival in
+the time of George the Third, has now sunk, let us hope, into the limbo
+of forgotten things. The latter part of that 100 years saw the dawn
+of that system of free government which has grown and flourished, and
+which, if the men of the present day be the worthy descendants of Eliott
+and Pym, and Hampden and Milton, will go on growing as long as this
+realm lasts. Within that time, one of the strangest phenomena which I
+think I may say any nation has ever manifested arose to its height and
+fell--I mean that strange and altogether marvellous phenomenon, English
+Puritanism. Within that time, England had to show statesmen like
+Burleigh, Strafford, and Cromwell--I mean men who were real statesmen,
+and not intriguers, seeking to make a reputation at the expense of the
+nation. In the course of that time, the nation had begun to throw off
+those swarms of hardy colonists which, to the benefit of the world--and
+as I fancy, in the long run, to the benefit of England herself--have
+now become the United States of America; and, during the same epoch,
+the first foundations were laid of that Indian Empire which, it may be,
+future generations will not look upon as so happy a product of English
+enterprise and ingenuity. In that time we had poets such as Spenser,
+Shakespere, and Milton; we had a great philosopher, in Hobbes; and we
+had a clever talker about philosophy, in Bacon. In the beginning of the
+period, Harvey revolutionized the biological sciences, and at the end of
+it, Newton was preparing the revolution of the physical sciences. I know
+not any period of our history--I doubt if there be any period of the
+history of any nation--which has precisely such a record as this to
+show for a hundred years. But I do not recall these facts to your
+recollection for a mere vainglorious purpose. I myself am of opinion
+that the memory of the great men of a nation is one of its most precious
+possessions--not because we have any right to plume ourselves upon their
+having existed as a matter of national vanity, but because we have a
+just and rational ground of expectation that the race which has brought
+forth such products as these may, in good time and under fortunate
+circumstances, produce the like again. I am one of those people who
+do not believe in the natural decay of nations. I believe, to speak
+frankly, though perhaps not quite so politely as I could wish--but I
+am getting near the end of my lecture--that the whole theory is a
+speculation invented by cowards to excuse knaves. My belief is, that so
+far as this old English stock is concerned it has in it as much sap
+and vitality and power as it had two centuries ago; and that, with due
+pruning of rotten branches, and due hoeing up of weeds, which will grow
+about the roots, the like products will be yielded again. The "weeds"
+to which I refer are mainly three: the first of them is dishonesty, the
+second is sentimentality, and the third is luxury. If William Harvey had
+been a dishonest man--I mean in the high sense of the word--a man who
+failed in the ideal of honesty--he would have believed what it was
+easiest to believe--that which he received on the authority of his
+predecessors. He would not have felt that his highest duty was to know
+of his own knowledge that that which he said he believed was true, and
+we should never have had those investigations, pursued through good
+report and evil report, which ended in discoveries so fraught with
+magnificent results for science and for man. If Harvey had been a
+sentimentalist--by which I mean a person of false pity, a person who
+has not imagination enough to see that great, distant evils may be much
+worse than those which we can picture to ourselves, because they
+happen to be immediate and near (for that, I take it, is the essence of
+sentimentalism)--if Harvey had been a person of that kind, he, being
+one of the kindest men living, would never have pursued those researches
+which, as he tells us over and over again, he was obliged to pursue in
+order to the ascertainment of those facts which have turned out to be of
+such inestimable value to the human race; and I say, if on such grounds
+he had failed to do so, he would have failed in his duty to the human
+race. The third point is that Harvey was devoid of care either for
+wealth, or for riches, or for ambition. The man found a higher ideal
+than any of these things in the pursuit of truth and the benefit of his
+fellow-men. If we all go and do likewise, I think there is no fear for
+the decadence of England. I think that our children and our successors
+will find themselves in a commonwealth, different it may be from that
+for which Eliott, and Pym, and Hampden struggled, but one which will be
+identical in the substance of its aims--great, worthy, and well to live
+in.
+
+
+
+[Footnote 1: A Lecture delivered in the Free Trade Hall, November 2nd,
+1878.]
+
+
+
+

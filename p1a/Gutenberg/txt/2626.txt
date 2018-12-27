@@ -1,0 +1,930 @@
+
+THE LIGHTS OF THE CHURCH AND THE LIGHT OF SCIENCE
+
+ESSAY #6 FROM "SCIENCE AND HEBREW TRADITION"
+
+
+By Thomas Henry Huxley
+
+
+
+There are three ways of regarding any account of past occurrences,
+whether delivered to us orally or recorded in writing.
+
+The narrative may be exactly true. That is to say, the words, taken in
+their natural sense, and interpreted according to the rules of grammar,
+may convey to the mind of the hearer, or of the reader an idea precisely
+correspondent with one which would have remained in the mind of a
+witness. For example, the statement that King Charles the First was
+beheaded at Whitehall on the 30th day of January 1649, is as exactly
+true as any proposition in mathematics or physics; no one doubts that
+any person of sound faculties, properly placed, who was present at
+Whitehall throughout that day, and who used his eyes, would have seen
+the King's head cut off; and that there would have remained in his mind
+an idea of that occurrence which he would have put into words of the
+same value as those which we use to express it.
+
+Or the narrative may be partly true and partly false. Thus, some
+histories of the time tell us what the King said, and what Bishop Juxon
+said; or report royalist conspiracies to effect a rescue; or detail the
+motives which induced the chiefs of the Commonwealth to resolve that
+the King should die. One account declares that the King knelt at a high
+block, another that he lay down with his neck on a mere plank. And
+there are contemporary pictorial representations of both these modes of
+procedure. Such narratives, while veracious as to the main event,
+may and do exhibit various degrees of unconscious and conscious
+misrepresentation, suppression, and invention, till they become hardly
+distinguishable from pure fictions. Thus, they present a transition
+to narratives of a third class, in which the fictitious element
+predominates. Here, again, there are all imaginable gradations, from
+such works as Defoe's quasi-historical account of the Plague year,
+which probably gives a truer conception of that dreadful time than any
+authentic history, through the historical novel, drama, and epic, to
+the purely phantasmal creations of imaginative genius, such as the old
+"Arabian Nights" or the modern "Shaving of Shagpat." It is not strictly
+needful for my present purpose that I should say anything about
+narratives which are professedly fictitious. Yet it may be well,
+perhaps, if I disclaim any intention of derogating from their value,
+when I insist upon the paramount necessity of recollecting that there is
+no sort of relation between the ethical, or the aesthetic, or even
+the scientific importance of such works, and their worth as historical
+documents. Unquestionably, to the poetic artist, or even to the student
+of psychology, "Hamlet" and "Macbeth" may be better instructors than
+all the books of a wilderness of professors of aesthetics or of moral
+philosophy. But, as evidence of occurrences in Denmark, or in
+Scotland, at the times and places indicated, they are out of court;
+the profoundest admiration for them, the deepest gratitude for their
+influence, are consistent with the knowledge that, historically
+speaking, they are worthless fables, in which any foundation of reality
+that may exist is submerged beneath the imaginative superstructure.
+
+At present, however, I am not concerned to dwell upon the importance
+of fictitious literature and the immensity of the work which it has
+effected in the education of the human race. I propose to deal with the
+much more limited inquiry: Are there two other classes of consecutive
+narratives (as distinct from statements of individual facts), or only
+one? Is there any known historical work which is throughout exactly
+true, or is there not? In the case of the great majority of histories
+the answer is not doubtful: they are all only partially true. Even those
+venerable works which bear the names of some of the greatest of ancient
+Greek and Roman writers, and which have been accepted by generation
+after generation, down to modern times, as stories of unquestionable
+truth, have been compelled by scientific criticism, after a long battle,
+to descend to the common level, and to confession to a large admixture
+of error. I might fairly take this for granted; but it may be well that
+I should entrench myself behind the very apposite words of a historical
+authority who is certainly not obnoxious to even a suspicion of
+sceptical tendencies. [1]
+
+    Time was--and that not very long ago--when all the relations of
+    ancient authors concerning the old world were received with a
+    ready belief; and an unreasoning and uncritical faith accepted
+    with equal satisfaction the narrative of the campaigns of Caesar
+    and of the doings of Romulus, the account of Alexander's marches
+    and of the conquests of Semiramis. We can most of us remember
+    when, in this country, the whole story of regal Rome, and even
+    the legend of the Trojan settlement in Latium, were seriously
+    placed before boys as history, and discoursed of as
+    unhesitatingly and in as dogmatic a tone as the tale of the
+    Catilline Conspiracy or the Conquest of Britain....
+
+    But all this is now changed. The last century has seen the birth
+    and growth of a new science--the Science of Historical
+    Criticism.... The whole world of profane history has been
+    revolutionised....
+
+If these utterances were true when they fell from the lips of a Bampton
+lecturer in 1859, with how much greater force do they appeal to us now,
+when the immense labours of the generation now passing away constitute
+one vast illustration of the power and fruitfulness of scientific
+methods of investigation in history, no less than in all other
+departments of knowledge.
+
+At the present time, I suppose, there is no one who doubts that
+histories which appertain to any other people than the Jews, and their
+spiritual progeny in the first century, fall within the second class
+of the three enumerated. Like Goethe's Autobiography, they might all be
+entitled "Wahrheit und Dichtung"--"Truth and Fiction." The proportion
+of the two constituents changes indefinitely; and the quality of the
+fiction varies through the whole gamut of unveracity. But "Dichtung" is
+always there. For the most acute and learned of historians cannot
+remedy the imperfections of his sources of information; nor can the
+most impartial wholly escape the influence of the "personal equation"
+generated by his temperament and by his education. Therefore, from the
+narratives of Herodotus to those set forth in yesterday's "Times," all
+history is to be read subject to the warning that fiction has its share
+therein. The modern vast development of fugitive literature cannot be
+the unmitigated evil that some do vainly say it is, since it has put
+an end to the popular delusion of less press-ridden times, that
+what appears in print must be true. We should rather hope that some
+beneficent influence may create among the erudite a like healthy
+suspicion of manuscripts and inscriptions, however ancient; for a
+bulletin may lie, even though it be written in cuneiform characters.
+Hotspur's starling, that was to be taught to speak nothing but
+"Mortimer" into the ears of King Henry the Fourth, might be a useful
+inmate of every historian's library, if "Fiction" were substituted for
+the name of Harry Percy's friend.
+
+But it was the chief object of the lecturer to the congregation gathered
+in St. Mary's, Oxford, thirty-one years ago, to prove to them, by
+evidence gathered with no little labour and marshalled with much skill,
+that one group of historical works was exempt from the general rule; and
+that the narratives contained in the canonical Scriptures are free from
+any admixture of error. With justice and candour, the lecturer impresses
+upon his hearers that the special distinction of Christianity, among the
+religions of the world, lies in its claim to be historical; to be surely
+founded upon events which have happened, exactly as they are declared to
+have happened in its sacred books; which are true, that is, in the sense
+that the statement about the execution of Charles the First is
+true. Further, it is affirmed that the New Testament presupposes the
+historical exactness of the Old Testament; that the points of contact
+of "sacred" and "profane" history are innumerable; and that the
+demonstration of the falsity of the Hebrew records, especially in regard
+to those narratives which are assumed to be true in the New Testament,
+would be fatal to Christian theology.
+
+My utmost ingenuity does not enable me to discover a flaw in the
+argument thus briefly summarised. I am fairly at a loss to comprehend
+how any one, for a moment, can doubt that Christian theology must stand
+or fall with the historical trustworthiness of the Jewish Scriptures.
+The very conception of the Messiah, or Christ, is inextricably
+interwoven with Jewish history; the identification of Jesus of Nazareth
+with that Messiah rests upon the interpretation of passages of the
+Hebrew Scriptures which have no evidential value unless they possess the
+historical character assigned to them. If the covenant with Abraham was
+not made; if circumcision and sacrifices were not ordained by Jahveh; if
+the "ten words" were not written by God's hand on the stone tables; if
+Abraham is more or less a mythical hero, such as Theseus; the story
+of the Deluge a fiction; that of the Fall a legend; and that of the
+creation the dream of a seer; if all these definite and detailed
+narratives of apparently real events have no more value as history than
+have the stories of the regal period of Rome--what is to be said about
+the Messianic doctrine, which is so much less clearly enunciated?
+And what about the authority of the writers of the books of the New
+Testament, who, on this theory, have not merely accepted flimsy fictions
+for solid truths, but have built the very foundations of Christian dogma
+upon legendary quicksands?
+
+But these may be said to be merely the carpings of that carnal reason
+which the profane call common sense; I hasten, therefore, to bring up
+the forces of unimpeachable ecclesiastical authority in support of my
+position. In a sermon preached last December, in St. Paul's Cathedral,
+[2] Canon Liddon declares:--
+
+"For Christians it will be enough to know that our Lord Jesus Christ set
+the seal of His infallible sanction on the whole of the Old Testament.
+He found the Hebrew canon as we have it in our hands to-day, and He
+treated it as an authority which was above discussion. Nay more: He went
+out of His way--if we may reverently speak thus--to sanction not a few
+portions of it which modern scepticism rejects. When He would warn His
+hearers against the dangers of spiritual relapse, He bids them remember
+'Lot's wife.' [3] When He would point out how worldly engagements may
+blind the soul to a coming judgment, He reminds them how men ate, and
+drank, and married, and were given in marriage, until the day that Noah
+entered into the ark, and the Flood came and destroyed them all. [4] If
+He would put His finger on a fact in past Jewish history which, by its
+admitted reality, would warrant belief in His own coming Resurrection,
+He points to Jonah's being three days and three nights in the whale's
+belly (p. 23)." [5]
+
+The preacher proceeds to brush aside the common--I had almost said
+vulgar--apologetic pretext that Jesus was using _ad hominem_ arguments,
+or "accommodating" his better knowledge to popular ignorance, as well
+as to point out the inadmissibility of the other alternative, that he
+shared the popular ignorance. And to those who hold the latter view
+sarcasm is dealt out with no niggard hand.
+
+    But they will find it difficult to persuade mankind that, if He
+    could be mistaken on a matter of such strictly religious
+    importance as the value of the sacred literature of His
+    countrymen, He can be safely trusted about anything else. The
+    trustworthiness of the Old Testament is, in fact, inseparable
+    from the trustworthiness of our Lord Jesus Christ; and if we
+    believe that He is the true Light of the world, we shall close
+    our ears against suggestions impairing the credit of those
+    Jewish Scriptures which have received the stamp of His Divine
+    authority. (p. 25)
+
+Moreover, I learn from the public journals that a brilliant and
+sharply-cut view of orthodoxy, of like hue and pattern, was only the
+other day exhibited in that great theological kaleidoscope, the pulpit
+of St. Mary's, recalling the time so long passed by, when a Bampton
+lecturer, in the same place, performed the unusual feat of leaving the
+faith of old-fashioned Christians undisturbed.
+
+Yet many things have happened in the intervening thirty-one years. The
+Bampton lecturer of 1859 had to grapple only with the infant Hercules of
+historical criticism; and he is now a full-grown athlete, bearing on
+his shoulders the spoils of all the lions that have stood in his path.
+Surely a martyr's courage, as well as a martyr's faith, is needed by any
+one who, at this time, is prepared to stand by the following plea for
+the veracity of the Pentateuch:--
+
+"Adam, according to the Hebrew original, was for 243 years contemporary
+with Methuselah, who conversed for a hundred years with Shem. Shem was
+for fifty years contemporary with Jacob, who probably saw Jochebed,
+Moses's mother. Thus, Moses might by oral tradition have obtained the
+history of Abraham, and even of the Deluge, at third hand; and that of
+the Temptation and the Fall at fifth hand....
+
+"If it be granted--as it seems to be--that the great and stirring events
+in a nation's life will, under ordinary circumstances, be remembered
+(apart from all written memorials) for the space of 150 years, being
+handed down through five generations, it must be allowed (even on more
+human grounds) that the account which Moses gives of the Temptation and
+the Fall is to be depended upon, if it passed through no more than four
+hands between him and Adam." [6]
+
+If "the trustworthiness of our Lord Jesus Christ" is to stand or fall
+with the belief in the sudden transmutation of the chemical components
+of a woman's body into sodium chloride, or on the "admitted reality"
+of Jonah's ejection, safe and sound, on the shores of the Levant, after
+three days' sea-journey in the stomach of a gigantic marine animal, what
+possible pretext can there be for even hinting a doubt as to the precise
+truth of the longevity attributed to the Patriarchs? Who that has
+swallowed the camel of Jonah's journey will be guilty of the affectation
+of straining at such a historical gnat--nay, midge--as the supposition
+that the mother of Moses was told the story of the Flood by Jacob; who
+had it straight from Shem; who was on friendly terms with Methuselah;
+who knew Adam quite well?
+
+Yet, by the strange irony of things, the illustrious brother of the
+divine who propounded this remarkable theory, has been the guide and
+foremost worker of that band of investigators of the records of Assyria
+and of Babylonia, who have opened to our view, not merely a new chapter,
+but a new volume of primeval history, relating to the very people who
+have the most numerous points of contact with the life of the ancient
+Hebrews. Now, whatever imperfections may yet obscure the full value of
+the Mesopotamian records, everything that has been clearly ascertained
+tends to the conclusion that the assignment of no more than 4000 years
+to the period between the time of the origin of mankind and that
+of Augustus Caesar, is wholly inadmissible. Therefore the Biblical
+chronology, which Canon Rawlinson trusted so implicitly in 1859, is
+relegated by all serious critics to the domain of fable.
+
+But if scientific method, operating in the region of history, of
+philology, of archaeology, in the course of the last thirty or forty
+years, has become thus formidable to the theological dogmatist, what may
+not be said about scientific method working in the province of
+physical science? For, if it be true that the Canonical Scriptures have
+innumerable points of contact with civil history, it is no less true
+that they have almost as many with natural history; and their accuracy
+is put to the test as severely by the latter as by the former. The
+origin of the present state of the heavens and the earth is a problem
+which lies strictly within the province of physical science; so is that
+of the origin of man among living things; so is that of the physical
+changes which the earth has undergone since the origin of man; so is
+that of the origin of the various races and nations of men, with all
+their varieties of language and physical conformation. Whether the
+earth moves round the sun or the contrary; whether the bodily and mental
+diseases of men and animals are caused by evil spirits or not; whether
+there is such an agency as witchcraft or not--all these are purely
+scientific questions; and to all of them the Canonical Scriptures
+profess to give true answers. And though nothing is more common than the
+assumption that these books come into conflict only with the speculative
+part of modern physical science, no assumption can have less foundation.
+
+The antagonism between natural knowledge and the Pentateuch would be as
+great if the speculations of our time had never been heard of. It arises
+out of contradiction upon matters of fact. The books of ecclesiastical
+authority declare that certain events happened in a certain fashion; the
+books of scientific authority say they did not. As it seems that this
+unquestionable truth has not yet penetrated among many of those who
+speak and write on these subjects, it may be useful to give a full
+illustration of it. And for that purpose I propose to deal, at some
+length, with the narrative of the Noachian Deluge given in Genesis.
+
+
+The Bampton lecturer in 1859, and the Canon of St. Paul's in 1890, are
+in full agreement that this history is true, in the sense in which I
+have defined historical truth. The former is of opinion that the account
+attributed to Berosus records a tradition--
+
+   not drawn from the Hebrew record, much less the foundation of
+   that record; yet coinciding with it in the most remarkable way.
+   The Babylonian version is tricked out with a few extravagances,
+   as the monstrous size of the vessel and the translation of
+   Xisuthros; but otherwise it is the Hebrew history _down to its
+   minutiae._ (p. 64).
+
+Moreover, correcting Niebuhr, the Bampton lecturer points out that the
+narrative of Berosus implies the universality of the Flood.
+
+   It is plain that the waters are represented as prevailing above
+   the tops of the loftiest mountains in Armenia--a height which
+   must have been seen to involve the submersion of all the
+   countries with which the Babylonians were acquainted (p. 66).
+
+I may remark, in passing, that many people think the size of Noah's ark
+"monstrous," considering the probable state of the art of shipbuilding
+only 1600 years after the origin of man; while others are so
+unreasonable as to inquire why the translation of Enoch is less an
+"extravagance" than that of Xisuthros. It is more important, however, to
+note that the Universality of the Deluge is recognised, not merely as
+a part of the story, but as a necessary consequence of some of its
+details. The latest exponent of Anglican orthodoxy, as we have seen,
+insists upon the accuracy of the Pentateuchal history of the Flood in a
+still more forcible manner. It is cited as one of those very narratives
+to which the authority of the Founder of Christianity is pledged,
+and upon the accuracy of which "the trustworthiness of our Lord Jesus
+Christ" is staked, just as others have staked it upon the truth of the
+histories of demoniac possession in the Gospels.
+
+Now, when those who put their trust in scientific methods of
+ascertaining the truth in the province of natural history find
+themselves confronted and opposed, on their own ground, by
+ecclesiastical pretensions to better knowledge, it is, undoubtedly, most
+desirable for them to make sure that their conclusions, whatever they
+may be, are well founded. And, if they put aside the unauthorised
+interference with their business and relegate the Pentateuchal history
+to the region of pure fiction, they are bound to assure themselves that
+they do so because the plainest teachings of Nature (apart from all
+doubtful speculations) are irreconcilable with the assertions which they
+reject.
+
+At the present time, it is difficult to persuade serious scientific
+inquirers to occupy themselves, in any way, with the Noachian Deluge.
+They look at you with a smile and a shrug, and say they have more
+important matters to attend to than mere antiquarianism. But it was not
+so in my youth. At that time, geologists and biologists could hardly
+follow to the end any path of inquiry without finding the way blocked
+by Noah and his ark, or by the first chapter of Genesis; and it was a
+serious matter, in this country at any rate, for a man to be suspected
+of doubting the literal truth of the Diluvial or any other Pentateuchal
+history. The fiftieth anniversary of the foundation of the Geological
+Club (in 1824) was, if I remember rightly, the last occasion on which
+the late Sir Charles Lyell spoke to even so small a public as the
+members of that body. Our veteran leader lighted up once more; and,
+referring to the difficulties which beset his early efforts to create
+a rational science of geology, spoke, with his wonted clearness and
+vigour, of the social ostracism which pursued him after the publication
+of the "Principles of Geology," in 1830, on account of the obvious
+tendency of that noble work to discredit the Pentateuchal accounts of
+the Creation and the Deluge. If my younger contemporaries find this hard
+to believe, I may refer them to a grave book, "On the Doctrine of the
+Deluge," published eight years later, and dedicated by its author to
+his father, the then Archbishop of York. The first chapter refers to the
+treatment of the "Mosaic Deluge," by Dr. Buckland and Mr. Lyell, in the
+following terms:
+
+   Their respect for revealed religion has prevented them from
+   arraying themselves openly against the Scriptural account of it
+   --much less do they deny its truth--but they are in a great
+   hurry to escape from the consideration of it, and evidently
+   concur in the opinion of Linnaeus, that no proofs whatever of
+   the Deluge are to be discovered in the structure of the
+   earth (p. 1).
+
+And after an attempt to reply to some of Lyell's arguments, which it
+would be cruel to reproduce, the writer continues:--
+
+   When, therefore, upon such slender grounds, it is
+   determined, in answer to those who insist upon its universality,
+   that the Mosaic Deluge must be considered a preternatural event,
+   far beyond the reach of philosophical inquiry; not only as to
+   the causes employed to produce it, but as to the effects most
+   likely to result from it; that determination wears an aspect of
+   scepticism, which, however much soever it may be unintentional
+   in the mind of the writer, yet cannot but produce an evil
+   impression on those who are already predisposed to carp and
+   cavil at the evidences of Revelation (pp. 8-9).
+
+The kindly and courteous writer of these curious passages is evidently
+unwilling to make the geologists the victims of general opprobrium
+by pressing the obvious consequences of their teaching home. One is
+therefore pained to think of the feelings with which, if he lived so
+long as to become acquainted with the "Dictionary of the Bible," he must
+have perused the article "Noah," written by a dignitary of the Church
+for that standard compendium and published in 1863. For the doctrine
+of the universality of the Deluge is therein altogether given up; and I
+permit myself to hope that a long criticism of the story from the point
+of view of natural science, with which, at the request of the learned
+theologian who wrote it, I supplied him, may, in some degree, have
+contributed towards this happy result.
+
+Notwithstanding diligent search, I have been unable to discover that the
+universality of the Deluge has any defender left, at least among those
+who have so far mastered the rudiments of natural knowledge as to be
+able to appreciate the weight of evidence against it. For example, when
+I turned to the "Speaker's Bible," published under the sanction of
+high Anglican authority, I found the following judicial and judicious
+deliverance, the skilful wording of which may adorn, but does not hide,
+the completeness of the surrender of the old teaching:--
+
+"Without pronouncing too hastily on any fair inferences from the
+words of Scripture, we may reasonably say that their most natural
+interpretation is, that the whole race of man had become grievously
+corrupted since the faithful had intermingled with the ungodly; that the
+inhabited world was consequently filled with violence, and that God
+had decreed to destroy all mankind except one single family; that,
+therefore, all that portion of the earth, perhaps as yet a very small
+portion, into which mankind had spread was overwhelmed with water. The
+ark was ordained to save one faithful family; and lest that family, on
+the subsidence of the waters, should find the whole country round them a
+desert, a pair of all the beasts of the land and of the fowls of the
+air were preserved along with them, and along with them went forth to
+replenish the now desolated continent. The words of Scripture (confirmed
+as they are by universal tradition) appear at least to mean as much as
+this. They do not necessarily mean more." [7]
+
+In the third edition of Kitto's "Cyclopaedia of Biblical Literature"
+(1876), the article "Deluge," written by my friend, the present
+distinguished head of the Geological Survey of Great Britain,
+extinguishes the universality doctrine as thoroughly as might be
+expected from its authorship; and, since the writer of the article
+"Noah" refers his readers to that entitled "Deluge," it is to be
+supposed, notwithstanding his generally orthodox tone, that he does
+not dissent from its conclusions. Again, the writers in Herzog's
+"Real-Encyclopadie" (Bd. X. 1882) and in Riehm's "Handworterbuch"
+(1884)--both works with a conservative leaning--are on the same side;
+and Diestel, [8] in his full discussion of the subject, remorselessly
+rejects the universality doctrine. Even that staunch opponent of
+scientific rationalism--may I say rationality?--Zockler [9] flinches
+from a distinct defence of the thesis, any opposition to which,
+well within my recollection, was howled down by the orthodox as mere
+"infidelity." All that, in his sore straits, Dr. Zockler is able to do,
+is to pronounce a faint commendation upon a particularly absurd attempt
+at reconciliation, which would make out the Noachian Deluge to be
+a catastrophe which occurred at the end of the Glacial Epoch. This
+hypothesis involves only the trifle of a physical revolution of which
+geology knows nothing; and which, if it secured the accuracy of the
+Pentateuchal writer about the fact of the Deluge, would leave the
+details of his account as irreconcilable with the truths of elementary
+physical science as ever. Thus I may be permitted to spare myself and my
+readers the weariness of a recapitulation of the overwhelming arguments
+against the universality of the Deluge, which they will now find for
+themselves stated, as fully and forcibly as could be wished, by Anglican
+and other theologians, whose orthodoxy and conservative tendencies
+have, hitherto, been above suspicion. Yet many fully admit (and, indeed,
+nothing can be plainer) that, as a matter of fact, the whole earth known
+to him was inundated; nor is it less obvious that unless all mankind,
+with the exception of Noah and his family, were actually destroyed, the
+references to the Flood in the New Testament are unintelligible.
+
+But I am quite aware that the strength of the demonstration that no
+universal Deluge ever took place has produced a change of front in the
+army of apologetic writers. They have imagined that the substitution
+of the adjective "partial" for "universal," will save the credit of the
+Pentateuch, and permit them, after all, without too many blushes,
+to declare that the progress of modern science only strengthens the
+authority of Moses. Nowhere have I found the case of the advocates of
+this method of escaping from the difficulties of the actual position
+better put than in the lecture of Professor Diestel to which I have
+referred. After frankly admitting that the old doctrine of universality
+involves physical impossibilities, he continues:--
+
+   All these difficulties fall away as soon as we give up the
+   universality of the Deluge, and imagine a _partial_
+   flooding of the earth, say in western Asia. But have we a right
+   to do so? The narrative speaks of "the whole earth." But what is
+   the meaning of this expression? Surely not the whole surface of
+   the earth according to the ideas of _modern_ geographers,
+   but, at most, according to the conceptions of the Biblical
+   author. This very simple conclusion, however, is never drawn by
+   too many readers of the Bible. But one need only cast one's eyes
+   over the tenth chapter of Genesis in order to become acquainted
+   with the geographical horizon of the Jews. In the north it was
+   bounded by the Black Sea and the mountains of Armenia;
+   extended towards the east very little beyond the Tigris;
+   hardly reached the apex of the Persian Gulf; passed, then,
+   through the middle of Arabia and the Red Sea; went southward
+   through Abyssinia, and then turned westward by the frontiers of
+   Egypt, and inclosed the easternmost islands of the
+   Mediterranean (p. 11).
+
+The justice of this observation must be admitted, no less than the
+further remark that, in still earlier times, the pastoral Hebrews very
+probably had yet more restricted notions of what constituted the "whole
+earth." Moreover, I, for one, fully agree with Professor Diestel that
+the motive, or generative incident, of the whole story is to be sought
+in the occasionally excessive and desolating floods of the Euphrates and
+the Tigris.
+
+Let us, provisionally, accept the theory of a partial deluge, and try to
+form a clear mental picture of the occurrence. Let us suppose that, for
+forty days and forty nights, such a vast quantity of water was poured
+upon the ground that the whole surface of Mesopotamia was covered by
+water to a depth certainly greater, probably much greater, than fifteen
+cubits, or twenty feet (Gen. vii. 20). The inundation prevails upon
+the earth for one hundred and fifty days and then the flood gradually
+decreases, until, on the seventeenth day of the seventh month, the ark,
+which had previously floated on its surface, grounds upon the "mountains
+of Ararat" [10] (Gen. viii. 34). Then, as Diestel has acutely pointed
+out ("Sintflut," p. 13), we are to imagine the further subsidence of the
+flood to take place so gradually that it was not until nearly two months
+and a half after this time (that is to say, on the first day of the
+tenth month) that the "tops of the mountains" became visible. Hence it
+follows that, if the ark drew even as much as twenty feet of water, the
+level of the inundation fell very slowly--at a rate of only a few inches
+a day--until the top of the mountain on which it rested became visible.
+This is an amount of movement which, if it took place in the sea, would
+be overlooked by ordinary people on the shore. But the Mesopotamian
+plain slopes gently, from an elevation of 500 or 600 feet at its
+northern end, to the sea, at its southern end, with hardly so much as a
+notable ridge to break its uniform flatness, for 300 to 400 miles.
+These being the conditions of the case, the following inquiry naturally
+presents itself: not, be it observed, as a recondite problem, generated
+by modern speculation, but as a plain suggestion flowing out of that
+very ordinary and archaic piece of knowledge that water cannot be piled
+up like in a heap, like sand; or that it seeks the lowest level. When,
+after 150 days, "the fountains also of the deep and the windows of
+heaven were stopped, and the rain from heaven was restrained" (Gen.
+viii.2), what prevented the mass of water, several, possibly very many,
+fathoms deep, which covered, say, the present site of Bagdad, from
+sweeping seaward in a furious torrent; and, in a very few hours,
+leaving, not only the "tops of the mountains," but the whole plain,
+save any minor depressions, bare? How could its subsistence, by any
+possibility, be an affair of weeks and months?
+
+And if this difficulty is not enough, let any one try to imagine how
+a mass of water several perhaps very many, fathoms deep, could be
+accumulated on a flat surface of land rising well above the sea,
+and separated from it by no sort of barrier. Most people know Lord's
+Cricket-ground. Would it not be an absurd contradiction to our common
+knowledge of the properties of water to imagine that, if all the
+mains of all the waterworks of London were turned on to it, they could
+maintain a heap of water twenty feet deep over its level surface? Is it
+not obvious that the water, whatever momentary accumulation might take
+place at first, would not stop there, but that it would dash, like a
+mighty mill-race, southwards down the gentle slope which ends in the
+Thames? And is it not further obvious, that whatever depth of water
+might be maintained over the cricket-ground so long as all the mains
+poured on to it, anything which floated there would be speedily whirled
+away by the current, like a cork in a gutter when the rain pours? But
+if this is so, then it is no less certain that Noah's deeply laden,
+sailless, oarless, and rudderless craft, if by good fortune it escaped
+capsizing in whirlpools, or having its bottom knocked into holes by
+snags (like those which prove fatal even to well-built steamers on the
+Mississippi in our day), would have speedily found itself a good way
+down the Persian Gulf, and not long after in the Indian Ocean, somewhere
+between Arabia and Hindostan. Even if, eventually, the ark might have
+gone ashore, with other jetsam and flotsam, on the coasts of Arabia, or
+of Hindostan, or of the Maldives, or of Madagascar, its return to the
+"mountains of Ararat" would have been a miracle more stupendous than all
+the rest.
+
+Thus, the last state of the would-be reconcilers of the story of the
+Deluge with fact is worse than the first. All that they have done is
+to transfer the contradictions to established truth from the region
+of science proper to that of common information and common sense. For,
+really, the assertion that the surface of a body of deep water, to which
+no addition was made, and which there was nothing to stop from running
+into the sea, sank at the rate of only a few inches or even feet a day,
+simply outrages the most ordinary and familiar teachings of every man's
+daily experience. A child may see the folly of it.
+
+In addition, I may remark that the necessary assumption of the "partial
+Deluge" hypothesis (if it is confined to Mesopotamia) that the Hebrew
+writer must have meant low hills when he said "high mountains," is quite
+untenable. On the eastern side of the Mesopotamian plain, the snowy
+peaks of the frontier ranges of Persia are visible from Bagdad, [11]
+and even the most ignorant herdsmen in the neighbourhood of "Ur of the
+Chaldees," near its western limit, could hardly have been unacquainted
+with the comparatively elevated plateau of the Syrian desert which lay
+close at hand. But, surely, we must suppose the Biblical writer to be
+acquainted with the highlands of Palestine and with the masses of the
+Sinaitic peninsula, which soar more than 8000 feet above the sea, if he
+knew of no higher elevations; and, if so, he could not well have meant
+to refer to mere hillocks when he said that "all the high mountains
+which were under the whole heaven were covered" (Genesis vii. 19). Even
+the hill-country of Galilee reaches an elevation of 4000 feet; and a
+flood which covered it could by no possibility have been other than
+universal in its superficial extent. Water really cannot be got to stand
+at, say, 4000 feet above the sea-level over Palestine, without covering
+the rest of the globe to the same height. Even if, in the course of
+Noah's six hundredth year, some prodigious convulsion had sunk the whole
+region inclosed within "the horizon of the geographical knowledge" of
+the Israelites by that much, and another had pushed it up again, just
+in time to catch the ark upon the "mountains of Ararat," matters are not
+much mended. I am afraid to think of what would have become of a vessel
+so little seaworthy as the ark and of its very numerous passengers,
+under the peculiar obstacles to quiet flotation which such rapid
+movements of depression and upheaval would have generated.
+
+Thus, in view, not, I repeat of the recondite speculations of infidel
+philosophers, but in the face of the plainest and most commonplace of
+ascertained physical facts, the story of the Noachian Deluge has no more
+claim to credit than has that of Deucalion; and whether it was, or was
+not, suggested by the familiar acquaintance of its originators with the
+effects of unusually great overflows of the Tigris and Euphrates, it is
+utterly devoid of historical truth.
+
+That is, in my judgment, the necessary result of the application of
+criticism, based upon assured physical knowledge to the story of the
+Deluge. And it is satisfactory that the criticism which is based, not
+upon literary and historical speculations, but upon well-ascertained
+facts in the departments of literature and history, tends to exactly the
+same conclusion.
+
+For I find this much agreed upon by all Biblical scholars of repute,
+that the story of the Deluge in Genesis is separable into at least two
+sets of statements; and that, when the statements thus separated are
+recombined in their proper order, each set furnishes an account of
+the event, coherent and complete within itself, but in some respects
+discordant with that afforded by the other set. This fact, as I
+understand, is not disputed. Whether one of these is the work of an
+Elohist, and the other of a Jehovist narrator; whether the two have been
+pieced together in this strange fashion because, in the estimation
+of the compilers and editors of the Pentateuch, they had equal and
+independent authority, or not; or whether there is some other way of
+accounting for it--are questions the answers to which do not affect the
+fact. If possible I avoid _a priori_ arguments. But still, I think it
+may be urged, without imprudence, that a narrative having this structure
+is hardly such as might be expected from a writer possessed of full and
+infallibly accurate knowledge. Once more, it would seem that it is not
+necessarily the mere inclination of the sceptical spirit to question
+everything, or the wilful blindness of infidels, which prompts grave
+doubts as to the value of a narrative thus curiously unlike the ordinary
+run of veracious histories.
+
+But the voice of archaeological and historical criticism still has to be
+heard; and it gives forth no uncertain sound. The marvellous recovery of
+the records of an antiquity, far superior to any that can be ascribed to
+the Pentateuch, which has been effected by the decipherers of cuneiform
+characters, has put us in possession of a series, once more, not of
+speculations, but of facts, which have a most remarkable bearing upon
+the question of the truthworthiness of the narrative of the Flood. It is
+established, that for centuries before the asserted migration of Terah
+from Ur of the Chaldees (which, according to the orthodox interpreters
+of the Pentateuch, took place after the year 2000 B.C.) Lower
+Mesopotamia was the seat of a civilisation in which art and science and
+literature had attained a development formerly unsuspected or, if there
+were faint reports of it, treated as fabulous. And it is also no matter
+of speculation, but a fact, that the libraries of these people contain
+versions of a long epic poem, one of the twelve books of which tells
+a story of a deluge, which, in a number of its leading features,
+corresponds with the story attributed to Berosus, no less than with the
+story given in Genesis, with curious exactness. Thus, the correctness of
+Canon Rawlinson's conclusion, cited above, that the story of Berosus was
+neither drawn from the Hebrew record, nor is the foundation of it,
+can hardly be questioned. It is highly probable, if not certain, that
+Berosus relied upon one of the versions (for there seem to have been
+several) of the old Babylonian epos, extant in his time; and, if that is
+a reasonable conclusion, why is it unreasonable to believe that the
+two stories, which the Hebrew compiler has put together in such an
+inartistic fashion, were ultimately derived from the same source? I say
+ultimately, because it does not at all follow that the two versions,
+possibly trimmed by the Jehovistic writer on the one hand, and by the
+Elohistic on the other, to suit Hebrew requirements, may not have been
+current among the Israelites for ages. And they may have acquired great
+authority before they were combined in the Pentateuch.
+
+Looking at the convergence of all these lines of evidence to the
+one conclusion--that the story of the Flood in Genesis is merely a
+Bowdlerised version of one of the oldest pieces of purely fictitious
+literature extant; that whether this is, or is not, its origin, the
+events asserted in it to have taken place assuredly never did take
+place; further, that, in point of fact, the story, in the plain and
+logically necessary sense of its words, has long since been given up by
+orthodox and conservative commentators of the Established Church--I can
+but admire the courage and clear foresight of the Anglican divine who
+tells us that we must be prepared to choose between the trustworthiness
+of scientific method and the trustworthiness of that which the Church
+declares to be Divine authority. For, to my mind, this declaration of
+war to the knife against secular science, even in its most elementary
+form; this rejection, without a moment's hesitation, of any and all
+evidence which conflicts with theological dogma--is the only position
+which is logically reconcilable with the axioms of orthodoxy. If the
+Gospels truly report that which an incarnation of the God of Truth
+communicated to the world, then it surely is absurd to attend to any
+other evidence touching matters about which he made any clear statement,
+or the truth of which is distinctly implied by his words. If the exact
+historical truth of the Gospels is an axiom of Christianity, it is as
+just and right for a Christian to say, Let us "close our ears against
+suggestions" of scientific critics, as it is for the man of science to
+refuse to waste his time upon circle-squarers and flat-earth fanatics.
+
+It is commonly reported that the manifesto by which the Canon of St.
+Paul's proclaims that he nails the colours of the straitest Biblical
+infallibility to the mast of the ship ecclesiastical, was put forth as
+a counterblast to "Lux Mundi"; and that the passages which I have more
+particularly quoted are directed against the essay on "The Holy Spirit
+and Inspiration" in that collection of treatises by Anglican divines of
+high standing, who must assuredly be acquitted of conscious "infidel"
+proclivities. I fancy that rumour must, for once, be right, for it is
+impossible to imagine a more direct and diametrical contradiction than
+that between the passages from the sermon cited above and those which
+follow:--
+
+   What is questioned is that our Lord's words foreclose certain
+   critical positions as to the character of Old Testament
+   literature. For example, does His use of Jonah's resurrection as
+   a _type_ of His own, depend in any real degree upon whether
+   it is historical fact or allegory?... Once more, our Lord uses
+   the time before the Flood, to illustrate the carelessness of men
+   before His own coming.... In referring to the Flood He
+   certainly suggests that He is treating it as typical, for He
+   introduces circumstances--"eating and drinking, marrying and
+   giving in marriage "--which have no counterpart in the original
+   narrative. (pp. 358-9).
+
+While insisting on the flow of inspiration through the whole of the Old
+Testament, the essayist does not admit its universality. Here, also, the
+new apologetic demands a partial flood:
+
+   But does the inspiration of the recorder guarantee the exact
+   historical truth of what he records? And, in matter of fact, can
+   the record with due regard to legitimate historical criticism,
+   be pronounced true? Now, to the latter of these two questions
+   (and they are quite distinct questions) we may reply that there
+   is nothing to prevent our believing, as our faith strongly
+   disposes us to believe, that the record from Abraham downward
+   is, in substance, in the strict sense historical (p. 351).
+
+It would appear, therefore, that there is nothing to prevent our
+believing that the record, from Abraham upward, consists of stories in
+the strict sense unhistorical, and that the pre-Abrahamic narratives are
+mere moral and religious "types" and parables.
+
+I confess I soon lose my way when I try to follow those who walk
+delicately among "types" and allegories. A certain passion for clearness
+forces me to ask, bluntly, whether the writer means to say that Jesus
+did not believe the stories in question, or that he did? When Jesus
+spoke, as of a matter of fact, that "the Flood came and destroyed them
+all," did he believe that the Deluge really took place, or not? It seems
+to me that, as the narrative mentions Noah's wife, and his sons'
+wives, there is good scriptural warranty for the statement that the
+antediluvians married and were given in marriage; and I should have
+thought that their eating and drinking might be assumed by the firmest
+believer in the literal truth of the story. Moreover, I venture to ask
+what sort of value, as an illustration of God's methods of dealing with
+sin, has an account of an event that never happened? If no Flood swept
+the careless people away, how is the warning of more worth than the cry
+of "Wolf" when there is no wolf? If Jonah's three days' residence in the
+whale is not an "admitted reality," how could it "warrant belief" in
+the "coming resurrection?" If Lot's wife was not turned into a pillar of
+salt, the bidding those who turn back from the narrow path to "remember"
+it is, morally, about on a level with telling a naughty child that a
+bogy is coming to fetch it away. Suppose that a Conservative orator
+warns his hearers to beware of great political and social changes,
+lest they end, as in France, in the domination of a Robespierre;
+what becomes, not only of his argument, but of his veracity, if he,
+personally, does not believe that Robespierre existed and did the deeds
+attributed to him?
+
+Like all other attempts to reconcile the results of
+scientifically-conducted investigation with the demands of the outworn
+creeds of ecclesiasticism, the essay on Inspiration is just such a
+failure as must await mediation, when the mediator is unable properly
+to appreciate the weight of the evidence for the case of one of the two
+parties. The question of "Inspiration" really possesses no interest for
+those who have cast ecclesiasticism and all its works aside, and have no
+faith in any source of truth save that which is reached by the
+patient application of scientific methods. Theories of inspiration are
+speculations as to the means by which the authors of statements, in the
+Bible or elsewhere, have been led to say what they have said--and it
+assumes that natural agencies are insufficient for the purpose. I prefer
+to stop short of this problem, finding it more profitable to undertake
+the inquiry which naturally precedes it--namely, Are these statements
+true or false? If they are true, it may be worth while to go into
+the question of their supernatural generation; if they are false, it
+certainly is not worth mine.
+
+Now, not only do I hold it to be proven that the story of the Deluge is
+a pure fiction; but I have no hesitation in affirming the same thing of
+the story of the Creation. [12] Between these two lies the story of the
+creation of man and woman and their fall from primitive innocence,
+which is even more monstrously improbable than either of the other two,
+though, from the nature of the case, it is not so easily capable of
+direct refutation. It can be demonstrated that the earth took longer
+than six days in the making, and that the Deluge, as described, is a
+physical impossibility; but there is no proving, especially to those who
+are perfect in the art of closing their ears to that which they do not
+wish to hear, that a snake did not speak, or that Eve was not made out
+of one of Adam's ribs.
+
+The compiler of Genesis, in its present form, evidently had a definite
+plan in his mind. His countrymen, like all other men, were doubtless
+curious to know how the world began; how men, and especially wicked
+men, came into being, and how existing nations and races arose among the
+descendants of one stock; and, finally, what was the history of their
+own particular tribe. They, like ourselves, desired to solve the four
+great problems of cosmogeny, anthropogeny, ethnogeny, and geneogeny. The
+Pentateuch furnishes the solutions which appeared satisfactory to its
+author. One of these, as we have seen, was borrowed from a Babylonian
+fable; and I know of no reason to suspect any different origin for the
+rest. Now, I would ask, is the story of the fabrication of Eve to be
+regarded as one of those pre-Abrahamic narratives, the historical truth
+of which is an open question, in face of the reference to it in a
+speech unhappily famous for the legal oppression to which it has been
+wrongfully forced to lend itself?
+
+   Have ye not read, that he which made them from the beginning
+   made them male and female, and said, For this cause shall a man
+   leave his father and mother, and cleave to his wife; and the
+   twain shall become one flesh? (Matt. xix. 5.)
+
+If divine authority is not here claimed for the twenty-fourth verse of
+the second chapter of Genesis, what is the value of language? And again,
+I ask, if one may play fast and loose with the story of the Fall as
+a "type" or "allegory," what becomes of the foundation of Pauline
+theology?--
+
+   For since by man came death, by man came also the
+   resurrection of the dead. For as in Adam all die, so also in
+   Christ shall all be made alive (1 Corinthians xv. 21, 22).
+
+If Adam may be held to be no more real a personage than Prometheus, and
+if the story of the Fall is merely an instructive "type," comparable to
+the profound Promethean mythus, what value has Paul's dialectic?
+
+While, therefore, every right-minded man must sympathise with the
+efforts of those theologians, who have not been able altogether to close
+their ears to the still, small, voice of reason, to escape from the
+fetters which ecclesiasticism has forged; the melancholy fact remains,
+that the position they have taken up is hopelessly untenable. It is
+raked alike by the old-fashioned artillery of the churches and by
+the fatal weapons of precision with which the _enfants perdus_ of the
+advancing forces of science are armed. They must surrender, or fall back
+into a more sheltered position. And it is possible that they may long
+find safety in such retreat.
+
+It is, indeed, probable that the proportional number of those who will
+distinctly profess their belief in the transubstantiation of Lot's wife,
+and the anticipatory experience of submarine navigation by Jonah; in
+water standing fathoms deep on the side of a declivity without anything
+to hold it up; and in devils who enter swine--will not increase. But
+neither is there ground for much hope that the proportion of those who
+cast aside these fictions and adopt the consequence of that repudiation,
+are, for some generations, likely to constitute a majority. Our age is
+a day of compromises. The present and the near future seem given over
+to those happily, if curiously, constituted people who see as little
+difficulty in throwing aside any amount of post-Abrahamic Scriptural
+narrative, as the authors of "Lux Mundi" see in sacrificing the
+pre-Abrahamic stories; and, having distilled away every inconvenient
+matter of fact in Christian history, continue to pay divine honours to
+the residue. There really seems to be no reason why the next generation
+should not listen to a Bampton Lecture modelled upon that addressed to
+the last:--
+
+   Time was--and that not very long ago--when all the relations of
+   Biblical authors concerning the whole world were received with a
+   ready belief; and an unreasoning and uncritical faith accepted
+   with equal satisfaction the narrative of the Captivity and the
+   doings of Moses at the court of Pharaoh, the account of the
+   Apostolic meeting in the Epistle to the Galatians, and that of
+   the fabrication of Eve. We can most of us remember when, in this
+   country, the whole story of the Exodus, and even the legend of
+   Jonah, were seriously placed before boys as history; and
+   discoursed of in as dogmatic a tone as the tale of Agincourt or
+   the history of the Norman Conquest.
+
+   But all this is now changed. The last century has seen the
+   growth of scientific criticism to its full strength. The whole
+   world of history has been revolutionised and the mythology which
+   embarrassed earnest Christians has vanished as an evil mist, the
+   lifting of which has only more fully revealed the lineaments of
+   infallible Truth. No longer in contact with fact of any kind,
+   Faith stands now and for ever proudly inaccessible to the
+   attacks of the infidel.
+
+So far the apologist of the future. Why not? _Cantabit vacuus._
+
+
+
+
+FOOTNOTES:
+
+[Footnote 1: _Bampton Lectures_ (1859), on "The Historical Evidence of
+the Truth of the Scripture Records stated anew, with Special Reference
+to the Doubts and Discoveries of Modern Times," by the Rev. G.
+Rawlinson, M.A., pp. 5-6.]
+
+[Footnote 2: _The Worth of the Old Testament,_ a Sermon preached in St.
+Paul's Cathedral on the second Sunday in Advent, 8th Dec., 1889, by
+H. P. Liddon, D.D., D.C.L., Canon and Chancellor of St. Paul's. Second
+edition revised and with a new preface, 1890.]
+
+[Footnote 3: St. Luke xvii. 32.]
+
+[Footnote 4: St. Luke xvii. 27.]
+
+[Footnote 5: St. Matt. xii. 40.]
+
+[Footnote 6: _Bampton Lectures,_ 1859, pp. 50-51.]
+
+[Footnote 7: _Commentary on Genesis,_ by the Bishop of Ely, p. 77.]
+
+[Footnote 8: _Die Sintflut,_ 1876.]
+
+[Footnote 9: _Theologie und Naturwissenschaft,_ ii. 784-791 (1877).]
+
+[Footnote 10: It is very doubtful if this means the region of the
+Armenian Ararat. More probably it designates some part either of the
+Kurdish range or of its south-eastern continuation.]
+
+[Footnote 11: So Reclus (_Nouvelle Geographie Universelle,_ ix. 386),
+but I find the statement doubted by an authority of the first rank.]
+
+[Footnote 12: So far as I know, the narrative of the Creation is not now
+held to be true, in the sense in which I have defined historical
+truth, by any of the reconcilers. As for the attempts to stretch the
+Pentateuchal days into periods of thousands or millions of years,
+the verdict of the eminent Biblical scholar, Dr. Riehm (_Der
+biblische Schopfungsbericht,_ 1881, pp. 15, 16) on such pranks of
+"Auslegungskunst" should be final. Why do the reconcilers take Goethe's
+advice seriously?--
+
+     "Im Auslegen seyd frisch und munter!
+      Legt ihr's nicht aus, so legt was unter."]
+

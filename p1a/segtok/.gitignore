@@ -1,0 +1,14 @@
+/.Python
+/.cache/
+/.idea/
+/.tox/
+/bin/
+/build/
+/dist/
+/include/
+/lib/
+/segtok.egg-info/
+/pyvenv.cfg
+/pip-selfcheck.json
+__pycache__
+*.pyc

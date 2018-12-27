@@ -1,0 +1,1335 @@
+
+THE ORIGIN OF SPECIES
+
+[1]
+
+
+By Thomas H. Huxley
+
+
+
+
+MR. DARWIN'S long-standing and well-earned scientific eminence probably
+renders him indifferent to that social notoriety which passes by the
+name of success; but if the calm spirit of the philosopher have not yet
+wholly superseded the ambition and the vanity of the carnal man within
+him, he must be well satisfied with the results of his venture in
+publishing the 'Origin of Species'. Overflowing the narrow bounds of
+purely scientific circles, the "species question" divides with Italy and
+the Volunteers the attention of general society. Everybody has read Mr.
+Darwin's book, or, at least, has given an opinion upon its merits or
+demerits; pietists, whether lay or ecclesiastic, decry it with the mild
+railing which sounds so charitable; bigots denounce it with ignorant
+invective; old ladies of both sexes consider it a decidedly dangerous
+book, and even savants, who have no better mud to throw, quote
+antiquated writers to show that its author is no better than an ape
+himself; while every philosophical thinker hails it as a veritable
+Whitworth gun in the armoury of liberalism; and all competent
+naturalists and physiologists, whatever their opinions as to the
+ultimate fate of the doctrines put forth, acknowledge that the work
+in which they are embodied is a solid contribution to knowledge and
+inaugurates a new epoch in natural history.
+
+Nor has the discussion of the subject been restrained within the limits
+of conversation. When the public is eager and interested, reviewers must
+minister to its wants; and the genuine 'litterateur' is too much in
+the habit of acquiring his knowledge from the book he judges--as the
+Abyssinian is said to provide himself with steaks from the ox which
+carries him--to be withheld from criticism of a profound scientific work
+by the mere want of the requisite preliminary scientific acquirement;
+while, on the other hand, the men of science who wish well to the new
+views, no less than those who dispute their validity, have naturally
+sought opportunities of expressing their opinions. Hence it is not
+surprising that almost all the critical journals have noticed Mr.
+Darwin's work at greater or less length; and so many disquisitions,
+of every degree of excellence, from the poor product of ignorance, too
+often stimulated by prejudice, to the fair and thoughtful essay of
+the candid student of Nature, have appeared, that it seems an almost
+hopeless task to attempt to say anything new upon the question.
+
+But it may be doubted if the knowledge and acumen of prejudged
+scientific opponents, or the subtlety of orthodox special pleaders, have
+yet exerted their full force in mystifying the real issues of the great
+controversy which has been set afoot, and whose end is hardly likely
+to be seen by this generation; so that, at this eleventh hour, and even
+failing anything new, it may be useful to state afresh that which is
+true, and to put the fundamental positions advocated by Mr. Darwin in
+such a form that they may be grasped by those whose special studies lie
+in other directions. And the adoption of this course may be the more
+advisable, because, notwithstanding its great deserts, and indeed partly
+on account of them, the 'Origin of Species' is by no means an easy book
+to read--if by reading is implied the full comprehension of an author's
+meaning.
+
+We do not speak jestingly in saying that it is Mr. Darwin's misfortune
+to know more about the question he has taken up than any man living.
+Personally and practically exercised in zoology, in minute anatomy,
+in geology; a student of geographical distribution, not on maps and
+in museums only, but by long voyages and laborious collection; having
+largely advanced each of these branches of science, and having spent
+many years in gathering and sifting materials for his present work,
+the store of accurately registered facts upon which the author of the
+'Origin of Species' is able to draw at will is prodigious.
+
+But this very superabundance of matter must have been embarrassing to
+a writer who, for the present, can only put forward an abstract of his
+views; and thence it arises, perhaps, that notwithstanding the clearness
+of the style, those who attempt fairly to digest the book find much of
+it a sort of intellectual pemmican--a mass of facts crushed and pounded
+into shape, rather than held together by the ordinary medium of an
+obvious logical bond; due attention will, without doubt, discover this
+bond, but it is often hard to find.
+
+Again, from sheer want of room, much has to be taken for granted which
+might readily enough be proved; and hence, while the adept, who can
+supply the missing links in the evidence from his own knowledge,
+discovers fresh proof of the singular thoroughness with which all
+difficulties have been considered and all unjustifiable suppositions
+avoided, at every reperusal of Mr. Darwin's pregnant paragraphs, the
+novice in biology is apt to complain of the frequency of what he fancies
+is gratuitous assumption.
+
+Thus while it may be doubted if, for some years, any one is likely to be
+competent to pronounce judgment on all the issues raised by Mr. Darwin,
+there is assuredly abundant room for him, who, assuming the humbler,
+though perhaps as useful, office of an interpreter between the 'Origin
+of Species' and the public, contents himself with endeavouring to
+point out the nature of the problems which it discusses; to distinguish
+between the ascertained facts and the theoretical views which it
+contains; and finally, to show the extent to which the explanation it
+offers satisfies the requirements of scientific logic. At any rate, it
+is this office which we purpose to undertake in the following pages.
+
+It may be safely assumed that our readers have a general conception of
+the nature of the objects to which the word "species" is applied; but it
+has, perhaps, occurred to a few, even to those who are naturalists 'ex
+professo', to reflect, that, as commonly employed, the term has a double
+sense and denotes two very different orders of relations. When we call a
+group of animals, or of plants, a species, we may imply thereby, either
+that all these animals or plants have some common peculiarity of form
+or structure; or, we may mean that they possess some common functional
+character. That part of biological science which deals with form
+and structure is called Morphology--that which concerns itself with
+function, Physiology--so that we may conveniently speak of these two
+senses, or aspects, of "species"--the one as morphological, the other
+as physiological. Regarded from the former point of view, a species
+is nothing more than a kind of animal or plant, which is distinctly
+definable from all others, by certain constant, and not merely sexual,
+morphological peculiarities. Thus horses form a species, because the
+group of animals to which that name is applied is distinguished from all
+others in the world by the following constantly associated characters.
+They have--1, A vertebral column; 2, Mammae; 3, A placental embryo; 4,
+Four legs; 5, A single well-developed toe in each foot provided with a
+hoof; 6, A bushy tail; and 7, Callosities on the inner sides of both
+the fore and the hind legs. The asses, again, form a distinct species,
+because, with the same characters, as far as the fifth in the above
+list, all asses have tufted tails, and have callosities only on the
+inner side of the fore-legs. If animals were discovered having the
+general characters of the horse, but sometimes with callosities only
+on the fore-legs, and more or less tufted tails; or animals having the
+general characters of the ass, but with more or less bushy tails,
+and sometimes with callosities on both pairs of legs, besides being
+intermediate in other respects--the two species would have to be merged
+into one. They could no longer be regarded as morphologically distinct
+species, for they would not be distinctly definable one from the other.
+
+However bare and simple this definition of species may appear to be,
+we confidently appeal to all practical naturalists, whether zoologists,
+botanists, or palaeontologists, to say if, in the vast majority of
+cases, they know, or mean to affirm anything more of the group of
+animals or plants they so denominate than what has just been stated.
+Even the most decided advocates of the received doctrines respecting
+species admit this.
+
+"I apprehend," says Professor Owen [2], "that few naturalists nowadays,
+in describing and proposing a name for what they call 'a new species,'
+use that term to signify what was meant by it twenty or thirty years
+ago; that is, an originally distinct creation, maintaining its primitive
+distinction by obstructive generative peculiarities. The proposer of the
+new species now intends to state no more than he actually knows; as, for
+example, that the differences on which he founds the specific character
+are constant in individuals of both sexes, so far as observation has
+reached; and that they are not due to domestication or to artificially
+superinduced external circumstances, or to any outward influence within
+his cognizance; that the species is wild, or is such as it appears by
+Nature."
+
+If we consider, in fact, that by far the largest proportion of recorded
+existing species are known only by the study of their skins, or bones,
+or other lifeless exuvia; that we are acquainted with none, or next to
+none, of their physiological peculiarities, beyond those which can be
+deduced from their structure, or are open to cursory observation; and
+that we cannot hope to learn more of any of those extinct forms of life
+which now constitute no inconsiderable proportion of the known Flora and
+Fauna of the world: it is obvious that the definitions of these species
+can be only of a purely structural, or morphological, character. It is
+probable that naturalists would have avoided much confusion of ideas
+if they had more frequently borne the necessary limitations of our
+knowledge in mind. But while it may safely be admitted that we are
+acquainted with only the morphological characters of the vast majority
+of species--the functional or physiological, peculiarities of a few have
+been carefully investigated, and the result of that study forms a large
+and most interesting portion of the physiology of reproduction.
+
+The student of Nature wonders the more and is astonished the less, the
+more conversant he becomes with her operations; but of all the perennial
+miracles she offers to his inspection, perhaps the most worthy of
+admiration is the development of a plant or of an animal from its
+embryo. Examine the recently laid egg of some common animal, such as a
+salamander or newt. It is a minute spheroid in which the best microscope
+will reveal nothing but a structureless sac, enclosing a glairy fluid,
+holding granules in suspension. But strange possibilities lie dormant
+in that semi-fluid globule. Let a moderate supply of warmth reach its
+watery cradle, and the plastic matter undergoes changes so rapid, yet
+so steady and purposelike in their succession, that one can only compare
+them to those operated by a skilled modeller upon a formless lump of
+clay. As with an invisible trowel, the mass is divided and subdivided
+into smaller and smaller portions, until it is reduced to an aggregation
+of granules not too large to build withal the finest fabrics of the
+nascent organism. And, then, it is as if a delicate finger traced out
+the line to be occupied by the spinal column, and moulded the contour
+of the body; pinching up the head at one end, the tail at the other,
+and fashioning flank and limb into due salamandrine proportions, in so
+artistic a way, that, after watching the process hour by hour, one is
+almost involuntarily possessed by the notion, that some more subtle aid
+to vision than an achromatic, would show the hidden artist, with his
+plan before him, striving with skilful manipulation to perfect his work.
+
+As life advances, and the young amphibian ranges the waters, the terror
+of his insect contemporaries, not only are the nutritious particles
+supplied by its prey, by the addition of which to its frame, growth
+takes place, laid down, each in its proper spot, and in such due
+proportion to the rest, as to reproduce the form, the colour, and the
+size, characteristic of the parental stock; but even the wonderful
+powers of reproducing lost parts possessed by these animals are
+controlled by the same governing tendency. Cut off the legs, the tail,
+the jaws, separately or all together, and, as Spallanzani showed long
+ago, these parts not only grow again, but the redintegrated limb is
+formed on the same type as those which were lost. The new jaw, or leg,
+is a newt's, and never by any accident more like that of a frog. What is
+true of the newt is true of every animal and of every plant; the acorn
+tends to build itself up again into a woodland giant such as that from
+whose twig it fell; the spore of the humblest lichen reproduces the
+green or brown incrustation which gave it birth; and at the other end of
+the scale of life, the child that resembled neither the paternal nor the
+maternal side of the house would be regarded as a kind of monster.
+
+So that the one end to which, in all living beings, the formative
+impulse is tending--the one scheme which the Archaeus of the old
+speculators strives to carry out, seems to be to mould the offspring
+into the likeness of the parent. It is the first great law of
+reproduction, that the offspring tends to resemble its parent or
+parents, more closely than anything else.
+
+Science will some day show us how this law is a necessary consequence
+of the more general laws which govern matter; but, for the present, more
+can hardly be said than that it appears to be in harmony with them. We
+know that the phenomena of vitality are not something apart from other
+physical phenomena, but one with them; and matter and force are the two
+names of the one artist who fashions the living as well as the
+lifeless. Hence living bodies should obey the same great laws as other
+matter--nor, throughout Nature, is there a law of wider application than
+this, that a body impelled by two forces takes the direction of their
+resultant. But living bodies may be regarded as nothing but extremely
+complex bundles of forces held in a mass of matter, as the complex
+forces of a magnet are held in the steel by its coercive force; and,
+since the differences of sex are comparatively slight, or, in other
+words, the sum of the forces in each has a very similar tendency, their
+resultant, the offspring, may reasonably be expected to deviate but
+little from a course parallel to either, or to both.
+
+Represent the reason of the law to ourselves by what physical metaphor
+or analogy we will, however, the great matter is to apprehend its
+existence and the importance of the consequences deducible from it. For
+things which are like to the same are like to one another; and if; in
+a great series of generations, every offspring is like its parent, it
+follows that all the offspring and all the parents must be like
+one another; and that, given an original parental stock, with the
+opportunity of undisturbed multiplication, the law in question
+necessitates the production, in course of time, of an indefinitely large
+group, the whole of whose members are at once very similar and are blood
+relations, having descended from the same parent, or pair of parents.
+The proof that all the members of any given group of animals, or plants,
+had thus descended, would be ordinarily considered sufficient to entitle
+them to the rank of physiological species, for most physiologists
+consider species to be definable as "the offspring of a single primitive
+stock."
+
+But though it is quite true that all those groups we call species 'may',
+according to the known laws of reproduction, have descended from a
+single stock, and though it is very likely they really have done so,
+yet this conclusion rests on deduction and can hardly hope to establish
+itself upon a basis of observation. And the primitiveness of the
+supposed single stock, which, after all, is the essential part of the
+matter, is not only a hypothesis, but one which has not a shadow of
+foundation, if by "primitive" he meant "independent of any other living
+being." A scientific definition, of which an unwarrantable hypothesis
+forms an essential part, carries its condemnation within itself;
+but, even supposing such a definition were, in form, tenable, the
+physiologist who should attempt to apply it in Nature would soon find
+himself involved in great, if not inextricable, difficulties. As we have
+said, it is indubitable that offspring 'tend' to resemble the parental
+organism, but it is equally true that the similarity attained never
+amounts to identity, either in form or in structure. There is always a
+certain amount of deviation, not only from the precise characters of a
+single parent, but when, as in most animals and many plants, the sexes
+are lodged in distinct individuals, from an exact mean between the two
+parents. And indeed, on general principles, this slight deviation seems
+as intelligible as the general similarity, if we reflect how complex the
+co-operating "bundles of forces" are, and how improbable it is that, in
+any case, their true resultant shall coincide with any mean between
+the more obvious characters of the two parents. Whatever be its cause,
+however, the co-existence of this tendency to minor variation with the
+tendency to general similarity, is of vast importance in its bearing on
+the question of the origin of species.
+
+As a general rule, the extent to which an offspring differs from its
+parent is slight enough; but, occasionally, the amount of difference is
+much more strongly marked, and then the divergent offspring receives the
+name of a Variety. Multitudes, of what there is every reason to believe
+are such varieties, are known, but the origin of very few has been
+accurately recorded, and of these we will select two as more especially
+illustrative of the main features of variation. The first of them is
+that of the "Ancon," or "Otter" sheep, of which a careful account is
+given by Colonel David Humphreys, F.R.S., in a letter to Sir Joseph
+Banks, published in the Philosophical Transactions for 1813. It appears
+that one Seth Wright, the proprietor of a farm on the banks of the
+Charles River, in Massachusetts, possessed a flock of fifteen ewes and
+a ram of the ordinary kind. In the year 1791, one of the ewes presented
+her owner with a male lamb, differing, for no assignable reason, from
+its parents by a proportionally long body and short bandy legs, whence
+it was unable to emulate its relatives in those sportive leaps over the
+neighbours' fences, in which they were in the habit of indulging, much
+to the good farmer's vexation.
+
+The second case is that detailed by a no less unexceptionable authority
+than Reaumur, in his 'Art de faire eclore les Poulets'. A Maltese
+couple, named Kelleia, whose hands and feet were constructed upon the
+ordinary human model, had born to them a son, Gratio, who possessed six
+perfectly movable fingers on each hand, and six toes, not quite so well
+formed, on each foot. No cause could be assigned for the appearance of
+this unusual variety of the human species.
+
+Two circumstances are well worthy of remark in both these cases. In
+each, the variety appears to have arisen in full force, and, as it were,
+'per saltum'; a wide and definite difference appearing, at once, between
+the Ancon ram and the ordinary sheep; between the six-fingered and
+six-toed Gratio Kelleia and ordinary men. In neither case is it possible
+to point out any obvious reason for the appearance of the variety.
+Doubtless there were determining causes for these as for all other
+phenomena; but they do not appear, and we can be tolerably certain that
+what are ordinarily understood as changes in physical conditions, as in
+climate, in food, or the like, did not take place and had nothing to do
+with the matter. It was no case of what is commonly called adaptation
+to circumstances; but, to use a conveniently erroneous phrase, the
+variations arose spontaneously. The fruitless search after final causes
+leads their pursuers a long way; but even those hardy teleologists, who
+are ready to break through all the laws of physics in chase of their
+favourite will-o'-the-wisp, may be puzzled to discover what purpose
+could be attained by the stunted legs of Seth Wright's ram or the
+hexadactyle members of Gratio Kelleia.
+
+Varieties then arise we know not why; and it is more than probable that
+the majority of varieties have arisen in this "spontaneous" manner,
+though we are, of course, far from denying that they may be traced,
+in some cases, to distinct external influences; which are assuredly
+competent to alter the character of the tegumentary covering, to
+change colour, to increase or diminish the size of muscles, to modify
+constitution, and, among plants, to give rise to the metamorphosis of
+stamens into petals, and so forth. But however they may have arisen,
+what especially interests us at present is, to remark that, once in
+existence, varieties obey the fundamental law of reproduction that like
+tends to produce like; and their offspring exemplify it by tending
+to exhibit the same deviation from the parental stock as themselves.
+Indeed, there seems to be, in many instances, a pre-potent influence
+about a newly-arisen variety which gives it what one may call an unfair
+advantage over the normal descendants from the same stock. This is
+strikingly exemplified by the case of Gratio Kelleia, who married a
+woman with the ordinary pentadactyle extremities, and had by her
+four children, Salvator, George, Andre, and Marie. Of these children
+Salvator, the eldest boy, had six fingers and six toes, like his father;
+the second and third, also boys, had five fingers and five toes,
+like their mother, though the hands and feet of George were slightly
+deformed. The last, a girl, had five fingers and five toes, but the
+thumbs were slightly deformed. The variety thus reproduced itself purely
+in the eldest, while the normal type reproduced itself purely in the
+third, and almost purely in the second and last: so that it would seem,
+at first, as if the normal type were more powerful than the variety.
+But all these children grew up and intermarried with normal wives and
+husband, and then, note what took place: Salvator had four children,
+three of whom exhibited the hexadactyle members of their grandfather and
+father, while the youngest had the pentadactyle limbs of the mother
+and grandmother; so that here, notwithstanding a double pentadactyle
+dilution of the blood, the hexadactyle variety had the best of it. The
+same pre-potency of the variety was still more markedly exemplified in
+the progeny of two of the other children, Marie and George. Marie (whose
+thumbs only were deformed) gave birth to a boy with six toes, and three
+other normally formed children; but George, who was not quite so pure a
+pentadactyle, begot, first, two girls, each of whom had six fingers
+and toes; then a girl with six fingers on each hand and six toes on the
+right foot, but only five toes on the left; and lastly, a boy with only
+five fingers and toes. In these instances, therefore, the variety, as
+it were, leaped over one generation to reproduce itself in full force in
+the next. Finally, the purely pentadactyle Andre was the father of many
+children, not one of whom departed from the normal parental type.
+
+If a variation which approaches the nature of a monstrosity can strive
+thus forcibly to reproduce itself, it is not wonderful that less
+aberrant modifications should tend to be preserved even more strongly;
+and the history of the Ancon sheep is, in this respect, particularly
+instructive. With the "'cuteness" characteristic of their nation, the
+neighbours of the Massachusetts farmer imagined it would be an excellent
+thing if all his sheep were imbued with the stay-at-home tendencies
+enforced by Nature upon the newly-arrived ram; and they advised Wright
+to kill the old patriarch of his fold, and install the Ancon ram in his
+place. The result justified their sagacious anticipations, and coincided
+very nearly with what occurred to the progeny of Gratio Kelleia. The
+young lambs were almost always either pure Ancons, or pure ordinary
+sheep. [3] But when sufficient Ancon sheep were obtained to interbreed
+with one another, it was found that the offspring was always pure Ancon.
+Colonel Humphreys, in fact, states that he was acquainted with only "one
+questionable case of a contrary nature." Here, then, is a remarkable
+and well-established instance, not only of a very distinct race being
+established 'per saltum', but of that race breeding "true" at once, and
+showing no mixed forms, even when crossed with another breed.
+
+By taking care to select Ancons of both sexes, for breeding from, it
+thus became easy to establish an extremely well-marked race; so peculiar
+that, even when herded with other sheep, it was noted that the Ancons
+kept together. And there is every reason to believe that the existence
+of this breed might have been indefinitely protracted; but the
+introduction of the Merino sheep, which were not only very superior to
+the Ancons in wool and meat, but quite as quiet and orderly, led to the
+complete neglect of the new breed, so that, in 1813, Colonel Humphreys
+found it difficult to obtain the specimen, whose skeleton was presented
+to Sir Joseph Banks. We believe that, for many years, no remnant of it
+has existed in the United States.
+
+Gratio Kelleia was not the progenitor of a race of six-fingered men, as
+Seth Wright's ram became a nation of Ancon sheep, though the tendency of
+the variety to perpetuate itself appears to have been fully as strong
+in the one case as in the other. And the reason of the difference is
+not far to seek. Seth Wright took care not to weaken the Ancon blood by
+matching his Ancon ewes with any but males of the same variety, while
+Gratio Kelleia's sons were too far removed from the patriarchal times
+to intermarry with their sisters; and his grandchildren seem not to have
+been attracted by their six-fingered cousins. In other words, in the one
+example a race was produced, because, for several generations, care
+was taken to 'select' both parents of the breeding stock from animals
+exhibiting a tendency to vary in the same condition; while, in the
+other, no race was evolved, because no such selection was exercised.
+A race is a propagated variety; and as, by the laws of reproduction,
+offspring tend to assume the parental forms, they will be more likely to
+propagate a variation exhibited by both parents than that possessed by
+only one.
+
+There is no organ of the body of an animal which may not, and does not,
+occasionally, vary more or less from the normal type; and there is
+no variation which may not be transmitted and which, if selectively
+transmitted, may not become the foundation of a race. This great truth,
+sometimes forgotten by philosophers, has long been familiar to practical
+agriculturists and breeders; and upon it rest all the methods of
+improving the breeds of domestic animals, which, for the last century,
+have been followed with so much success in England. Colour, form, size,
+texture of hair or wool, proportions of various parts, strength or
+weakness of constitution, tendency to fatten or to remain lean, to give
+much or little milk, speed, strength, temper, intelligence, special
+instincts; there is not one of these characters whose transmission is
+not an every-day occurrence within the experience of cattle-breeders,
+stock-farmers, horse-dealers, and dog and poultry fanciers. Nay, it
+is only the other day that an eminent physiologist, Dr. Brown-Sequard,
+communicated to the Royal Society his discovery that epilepsy,
+artificially produced in guinea-pigs, by a means which he has
+discovered, is transmitted to their offspring.
+
+But a race, once produced, is no more a fixed and immutable entity than
+the stock whence it sprang; variations arise among its members, and
+as these variations are transmitted like any others, new races may be
+developed out of the pre-existing one 'ad infinitum', or, at least,
+within any limit at present determined. Given sufficient time and
+sufficiently careful selection, and the multitude of races which
+may arise from a common stock is as astonishing as are the extreme
+structural differences which they may present. A remarkable example of
+this is to be found in the rock-pigeon, which Dr. Darwin has, in our
+opinion, satisfactorily demonstrated to be the progenitor of all our
+domestic pigeons, of which there are certainly more than a hundred
+well-marked races. The most noteworthy of these races are, the four
+great stocks known to the "fancy" as tumblers, pouters, carriers, and
+fantails; birds which not only differ most singularly in size, colour,
+and habits, but in the form of the beak and of the skull: in the
+proportions of the beak to the skull; in the number of tail-feathers; in
+the absolute and relative size of the feet; in the presence or absence
+of the uropygial gland; in the number of vertebrae in the back; in
+short, in precisely those characters in which the genera and species of
+birds differ from one another.
+
+And it is most remarkable and instructive to observe, that none of these
+races can be shown to have been originated by the action of changes
+in what are commonly called external circumstances, upon the wild
+rock-pigeon. On the contrary, from time immemorial, pigeon-fanciers have
+had essentially similar methods of treating their pets, which have
+been housed, fed, protected and cared for in much the same way in all
+pigeonries. In fact, there is no case better adapted than that of
+the pigeons to refute the doctrine which one sees put forth on
+high authority, that "no other characters than those founded on the
+development of bone for the attachment of muscles" are capable of
+variation. In precise contradiction of this hasty assertion, Mr.
+Darwin's researches prove that the skeleton of the wings in domestic
+pigeons has hardly varied at all from that of the wild type; while, on
+the other hand, it is in exactly those respects, such as the relative
+length of the beak and skull, the number of the vertebrae, and the
+number of the tail-feathers, in which muscular exertion can have no
+important influence, that the utmost amount of variation has taken
+place.
+
+We have said that the following out of the properties exhibited by
+physiological species would lead us into difficulties, and at this point
+they begin to be obvious; for if, as the result of spontaneous variation
+and of selective breeding, the progeny of a common stock may become
+separated into groups distinguished from one another by constant, not
+sexual, morphological characters, it is clear that the physiological
+definition of species is likely to clash with the morphological
+definition. No one would hesitate to describe the pouter and the tumbler
+as distinct species, if they were found fossil, or if their skins and
+skeletons were imported, as those of exotic wild birds commonly
+are--and without doubt, if considered alone, they are good and distinct
+morphological species. On the other hand, they are not physiological
+species, for they are descended from a common stock, the rock-pigeon.
+
+Under these circumstances, as it is admitted on all sides that races
+occur in Nature, how are we to know whether any apparently distinct
+animals are really of different physiological species, or not, seeing
+that the amount of morphological difference is no safe guide? Is there
+any test of a physiological species? The usual answer of physiologists
+is in the affirmative. It is said that such a test is to be found in
+the phenomena of hybridization--in the results of crossing races, as
+compared with the results of crossing species.
+
+So far as the evidence goes at present, individuals, of what are
+certainly known to be mere races produced by selection, however distinct
+they may appear to be, not only breed freely together, but the offspring
+of such crossed races are only perfectly fertile with one another. Thus,
+the spaniel and the greyhound, the dray-horse and the Arab, the
+pouter and the tumbler, breed together with perfect freedom, and their
+mongrels, if matched with other mongrels of the same kind, are equally
+fertile.
+
+On the other hand, there can be no doubt that the individuals of
+many natural species are either absolutely infertile if crossed with
+individuals of other species, or, if they give rise to hybrid offspring,
+the hybrids so produced are infertile when paired together. The horse
+and the ass, for instance, if so crossed, give rise to the mule, and
+there is no certain evidence of offspring ever having been produced by a
+male and female mule. The unions of the rock-pigeon and the
+ring-pigeon appear to be equally barren of result. Here, then, says the
+physiologist, we have a means of distinguishing any two true species
+from any two varieties. If a male and a female, selected from each
+group, produce offspring, and that offspring is fertile with others
+produced in the same way, the groups are races and not species. If, on
+the other hand, no result ensues, or if the offspring are infertile with
+others produced in the same way, they are true physiological species.
+The test would be an admirable one, if, in the first place, it were
+always practicable to apply it, and if, in the second, it always yielded
+results susceptible of a definite interpretation. Unfortunately, in
+the great majority of cases, this touchstone for species is wholly
+inapplicable.
+
+The constitution of many wild animals is so altered by confinement that
+they will not breed even with their own females, so that the negative
+results obtained from crosses are of no value; and the antipathy of wild
+animals of the same species for one another, or even of wild and tame
+members of the same species, is ordinarily so great, that it is hopeless
+to look for such unions in Nature. The hermaphrodism of most plants,
+the difficulty in the way of insuring the absence of their own, or the
+proper working of other pollen, are obstacles of no less magnitude
+in applying the test to them. And, in both animals and plants, is
+superadded the further difficulty, that experiments must be continued
+over a long time for the purpose of ascertaining the fertility of the
+mongrel or hybrid progeny, as well as of the first crosses from which
+they spring.
+
+Not only do these great practical difficulties lie in the way of
+applying the hybridization test, but even when this oracle can be
+questioned, its replies are sometimes as doubtful as those of Delphi.
+For example, cases are cited by Mr. Darwin, of plants which are more
+fertile with the pollen of another species than with their own; and
+there are others, such as certain 'fuci', whose male element will
+fertilize the ovule of a plant of distinct species, while the males of
+the latter species are ineffective with the females of the first. So
+that, in the last-named instance, a physiologist, who should cross the
+two species in one way, would decide that they were true species; while
+another, who should cross them in the reverse way, would, with equal
+justice, according to the rule, pronounce them to be mere races. Several
+plants, which there is great reason to believe are mere varieties, are
+almost sterile when crossed; while both animals and plants, which have
+always been regarded by naturalists as of distinct species, turn out,
+when the test is applied, to be perfectly fertile. Again, the sterility
+or fertility of crosses seems to bear no relation to the structural
+resemblances or differences of the members of any two groups.
+
+Mr. Darwin has discussed this question with singular ability and
+circumspection, and his conclusions are summed up as follows, at page
+276 of his work:--
+
+"First crosses between forms sufficiently distinct to be ranked as
+species, and their hybrids, are very generally, but not universally,
+sterile. The sterility is of all degrees, and is often so slight that
+the two most careful experimentalists who have ever lived have come to
+diametrically opposite conclusions in ranking forms by this test. The
+sterility is innately variable in individuals of the same species, and
+is eminently susceptible of favourable and unfavourable conditions. The
+degree of sterility does not strictly follow systematic affinity, but is
+governed by several curious and complex laws. It is generally different
+and sometimes widely different, in reciprocal crosses between the same
+two species. It is not always equal in degree in a first cross, and in
+the hybrid produced from this cross.
+
+"In the same manner as in grafting trees, the capacity of one species
+or variety to take on another is incidental on generally unknown
+differences in their vegetative systems; so in crossing, the greater
+or less facility of one species to unite with another is incidental
+on unknown differences in their reproductive systems. There is no more
+reason to think that species have been specially endowed with various
+degrees of sterility to prevent them crossing and breeding in Nature,
+than to think that trees have been specially endowed with various and
+somewhat analogous degrees of difficulty in being grafted together, in
+order to prevent them becoming inarched in our forests.
+
+"The sterility of first crosses between pure species, which have their
+reproductive systems perfect, seems to depend on several circumstances;
+in some cases largely on the early death of the embryo. The sterility of
+hybrids which have their reproductive systems imperfect, and which
+have had this system and their whole organization disturbed by being
+compounded of two distinct species, seems closely allied to that
+sterility which so frequently affects pure species when their natural
+conditions of life have been disturbed. This view is supported by a
+parallelism of another kind: namely, that the crossing of forms, only
+slightly different, is favourable to the vigour and fertility of
+the offspring; and that slight changes in the conditions of life are
+apparently favourable to the vigour and fertility of all organic beings.
+It is not surprising that the degree of difficulty in uniting two
+species, and the degree of sterility of their hybrid offspring, should
+generally correspond, though due to distinct causes; for both depend
+on the amount of difference of some kind between the species which are
+crossed. Nor is it surprising that the facility of effecting a first
+cross, the fertility of hybrids produced from it, and the capacity of
+being grafted together--though this latter capacity evidently depends
+on widely different circumstances--should all run to a certain extent
+parallel with the systematic affinity of the forms which are subjected
+to experiment; for systematic affinity attempts to express all kinds of
+resemblance between all species.
+
+"First crosses between forms known to be varieties, or sufficiently
+alike to be considered as varieties, and their mongrel offspring, are
+very generally, but not quite universally, fertile. Nor is this nearly
+general and perfect fertility surprising, when we remember how liable we
+are to argue in a circle with respect to varieties in a state of Nature;
+and when we remember that the greater number of varieties have
+been produced under domestication by the selection of mere external
+differences, and not of differences in the reproductive system. In
+all other respects, excluding fertility, there is a close general
+resemblance between hybrids and mongrels."--Pp. 276-8.
+
+We fully agree with the general tenor of this weighty passage; but
+forcible as are these arguments, and little as the value of fertility or
+infertility as a test of species may be, it must not be forgotten that
+the really important fact, so far as the inquiry into the origin of
+species goes, is, that there are such things in Nature as groups of
+animals and of plants, whose members are incapable of fertile union with
+those of other groups; and that there are such things as hybrids, which
+are absolutely sterile when crossed with other hybrids. For, if such
+phenomena as these were exhibited by only two of those assemblages of
+living objects, to which the name of species (whether it be used in its
+physiological or in its morphological sense) is given, it would have
+to be accounted for by any theory of the origin of species, and every
+theory which could not account for it would be, so far, imperfect.
+
+Up to this point, we have been dealing with matters of fact, and the
+statements which we have laid before the reader would, to the best of
+our knowledge, be admitted to contain a fair exposition of what is at
+present known respecting the essential properties of species, by all who
+have studied the question. And whatever may be his theoretical views, no
+naturalist will probably be disposed to demur to the following summary
+of that exposition:--
+
+Living beings, whether animals or plants, are divisible into multitudes
+of distinctly definable kinds, which are morphological species. They are
+also divisible into groups of individuals, which breed freely together,
+tending to reproduce their like, and are physiological species. Normally
+resembling their parents, the offspring of members of these species are
+still liable to vary; and the variation may be perpetuated by selection,
+as a race, which race, in many cases, presents all the characteristics
+of a morphological species. But it is not as yet proved that a race
+ever exhibits, when crossed with another race of the same species, those
+phenomena of hybridization which are exhibited by many species when
+crossed with other species. On the other hand, not only is it not proved
+that all species give rise to hybrids infertile 'inter se', but there
+is much reason to believe that, in crossing, species exhibit every
+gradation from perfect sterility to perfect fertility.
+
+Such are the most essential characteristics of species. Even were man
+not one of them--a member of the same system and subject to the same
+laws--the question of their origin, their causal connexion, that is,
+with the other phenomena of the universe, must have attracted his
+attention, as soon as his intelligence had raised itself above the level
+of his daily wants.
+
+Indeed history relates that such was the case, and has embalmed for us
+the speculations upon the origin of living beings, which were among the
+earliest products of the dawning intellectual activity of man. In those
+early days positive knowledge was not to be had, but the craving
+after it needed, at all hazards, to be satisfied, and according to the
+country, or the turn of thought, of the speculator, the suggestion that
+all living things arose from the mud of the Nile, from a primeval
+egg, or from some more anthropomorphic agency, afforded a sufficient
+resting-place for his curiosity. The myths of Paganism are as dead as
+Osiris or Zeus, and the man who should revive them, in opposition to the
+knowledge of our time, would be justly laughed to scorn; but the coeval
+imaginations current among the rude inhabitants of Palestine, recorded
+by writers whose very name and age are admitted by every scholar to be
+unknown, have unfortunately not yet shared their fate, but, even at
+this day, are regarded by nine-tenths of the civilized world as the
+authoritative standard of fact and the criterion of the justice of
+scientific conclusions, in all that relates to the origin of things,
+and, among them, of species. In this nineteenth century, as at the dawn
+of modern physical science, the cosmogony of the semi-barbarous Hebrew
+is the incubus of the philosopher and the opprobrium of the orthodox.
+Who shall number the patient and earnest seekers after truth, from the
+days of Galileo until now, whose lives have been embittered and their
+good name blasted by the mistaken zeal of Bibliolaters? Who shall count
+the host of weaker men whose sense of truth has been destroyed in the
+effort to harmonize impossibilities--whose life has been wasted in the
+attempt to force the generous new wine of Science into the old bottles
+of Judaism, compelled by the outcry of the same strong party?
+
+It is true that if philosophers have suffered, their cause has been
+amply avenged. Extinguished theologians lie about the cradle of every
+science as the strangled snakes beside that of Hercules; and history
+records that whenever science and orthodoxy have been fairly opposed,
+the latter has been forced to retire from the lists, bleeding and
+crushed if not annihilated; scotched, if not slain. But orthodoxy is the
+Bourbon of the world of thought. It learns not, neither can it forget;
+and though, at present, bewildered and afraid to move, it is as willing
+as ever to insist that the first chapter of Genesis contains the
+beginning and the end of sound science; and to visit, with such petty
+thunderbolts as its half-paralysed hands can hurl, those who refuse to
+degrade Nature to the level of primitive Judaism.
+
+Philosophers, on the other hand, have no such aggressive tendencies.
+With eyes fixed on the noble goal to which "per aspera et ardua" they
+tend, they may, now and then, be stirred to momentary wrath by the
+unnecessary obstacles with which the ignorant, or the malicious,
+encumber, if they cannot bar, the difficult path; but why should their
+souls be deeply vexed? The majesty of Fact is on their side, and the
+elemental forces of Nature are working for them. Not a star comes to the
+meridian at its calculated time but testifies to the justice of their
+methods--their beliefs are "one with falling rain and with the growing
+corn." By doubt they are established, and open inquiry is their bosom
+friend. Such men have no fear of traditions however venerable, and no
+respect for them when they become mischievous and obstructive; but they
+have better than mere antiquarian business in hand, and if dogmas, which
+ought to be fossil but are not, are not forced upon their notice, they
+are too happy to treat them as non-existent.
+
+The hypotheses respecting the origin of species which profess to stand
+upon a scientific basis, and, as such, alone demand serious attention,
+are of two kinds. The one, the "special creation" hypothesis, presumes
+every species to have originated from one or more stocks, these not
+being the result of the modification of any other form of living
+matter--or arising by natural agencies--but being produced, as such, by
+a supernatural creative act.
+
+The other, the so-called "transmutation" hypothesis, considers that
+all existing species are the result of the modification of pre-existing
+species, and those of their predecessors, by agencies similar to those
+which at the present day produce varieties and races, and therefore in
+an altogether natural way; and it is a probable, though not a necessary
+consequence of this hypothesis, that all living beings have arisen from
+a single stock. With respect to the origin of this primitive stock,
+or stocks, the doctrine of the origin of species is obviously not
+necessarily concerned. The transmutation hypothesis, for example, is
+perfectly consistent either with the conception of a special creation of
+the primitive germ, or with the supposition of its having arisen, as a
+modification of inorganic matter, by natural causes.
+
+The doctrine of special creation owes its existence very largely to the
+supposed necessity of making science accord with the Hebrew cosmogony;
+but it is curious to observe that, as the doctrine is at present
+maintained by men of science, it is as hopelessly inconsistent with the
+Hebrew view as any other hypothesis.
+
+If there be any result which has come more clearly out of geological
+investigation than another, it is, that the vast series of extinct
+animals and plants is not divisible, as it was once supposed to be, into
+distinct groups, separated by sharply-marked boundaries. There are no
+great gulfs between epochs and formations--no successive periods marked
+by the appearance of plants, of water animals, and of land animals,
+'en masse'. Every year adds to the list of links between what the older
+geologists supposed to be widely separated epochs: witness the crags
+linking the drift with older tertiaries; the Maestricht beds linking the
+tertiaries with the chalk; the St. Cassian beds exhibiting an abundant
+fauna of mixed mesozoic and palaeozoic types, in rocks of an epoch once
+supposed to be eminently poor in life; witness, lastly, the incessant
+disputes as to whether a given stratum shall be reckoned devonian or
+carboniferous, silurian or devonian, cambrian or silurian.
+
+This truth is further illustrated in a most interesting manner by
+the impartial and highly competent testimony of M. Pictet, from whose
+calculations of what percentage of the genera of animals, existing in
+any formation, lived during the preceding formation, it results that in
+no case is the proportion less than 'one-third', or 33 per cent. It is
+the triassic formation, or the commencement of the mesozoic epoch, which
+has received the smallest inheritance from preceding ages. The other
+formations not uncommonly exhibit 60, 80, or even 94 per cent. of genera
+in common with those whose remains are imbedded in their predecessor.
+Not only is this true, but the subdivisions of each formation exhibit
+new species characteristic of, and found only in, them; and, in
+many cases, as in the lias for example, the separate beds of these
+subdivisions are distinguished by well-marked and peculiar forms of
+life. A section, a hundred feet thick, will exhibit, at different
+heights, a dozen species of ammonite, none of which passes beyond its
+particular zone of limestone, or clay, into the zone below it or into
+that above it; so that those who adopt the doctrine of special creation
+must be prepared to admit, that at intervals of time, corresponding with
+the thickness of these beds, the Creator thought fit to interfere with
+the natural course of events for the purpose of making a new ammonite.
+It is not easy to transplant oneself into the frame of mind of those who
+can accept such a conclusion as this, on any evidence short of absolute
+demonstration; and it is difficult to see what is to be gained by so
+doing, since, as we have said, it is obvious that such a view of the
+origin of living beings is utterly opposed to the Hebrew cosmogony.
+Deserving no aid from the powerful arm of Bibliolatry, then, does the
+received form of the hypothesis of special creation derive any support
+from science or sound logic? Assuredly not much. The arguments
+brought forward in its favour all take one form: If species were not
+supernaturally created, we cannot understand the facts 'x' or 'y', or
+'z'; we cannot understand the structure of animals or plants, unless we
+suppose they were contrived for special ends; we cannot understand the
+structure of the eye, except by supposing it to have been made to see
+with; we cannot understand instincts, unless we suppose animals to have
+been miraculously endowed with them.
+
+As a question of dialectics, it must be admitted that this sort of
+reasoning is not very formidable to those who are not to be frightened
+by consequences. It is an 'argumentum ad ignorantiam'--take this
+explanation or be ignorant.
+
+But suppose we prefer to admit our ignorance rather than adopt a
+hypothesis at variance with all the teachings of Nature? Or, suppose for
+a moment we admit the explanation, and then seriously ask ourselves how
+much the wiser are we; what does the explanation explain? Is it any more
+than a grandiloquent way of announcing the fact, that we really know
+nothing about the matter? A phenomenon is explained when it is shown
+to be a case of some general law of Nature; but the supernatural
+interposition of the Creator can, by the nature of the case, exemplify
+no law, and if species have really arisen in this way, it is absurd to
+attempt to discuss their origin.
+
+Or, lastly, let us ask ourselves whether any amount of evidence which
+the nature of our faculties permits us to attain, can justify us in
+asserting that any phenomenon is out of the reach of natural causation.
+To this end it is obviously necessary that we should know all the
+consequences to which all possible combinations, continued through
+unlimited time, can give rise. If we knew these, and found none
+competent to originate species, we should have good ground for denying
+their origin by natural causation. Till we know them, any hypothesis is
+better than one which involves us in such miserable presumption.
+
+But the hypothesis of special creation is not only a mere specious
+mask for our ignorance; its existence in Biology marks the youth and
+imperfection of the science. For what is the history of every science
+but the history of the elimination of the notion of creative, or other
+interferences, with the natural order of the phenomena which are the
+subject-matter of that science? When Astronomy was young "the morning
+stars sang together for joy," and the planets were guided in their
+courses by celestial hands. Now, the harmony of the stars has resolved
+itself into gravitation according to the inverse squares of the
+distances, and the orbits of the planets are deducible from the laws
+of the forces which allow a schoolboy's stone to break a window. The
+lightning was the angel of the Lord; but it has pleased Providence, in
+these modern times, that science should make it the humble messenger of
+man, and we know that every flash that shimmers about the horizon on a
+summer's evening is determined by ascertainable conditions, and that
+its direction and brightness might, if our knowledge of these were great
+enough, have been calculated.
+
+The solvency of great mercantile companies rests on the validity of the
+laws which have been ascertained to govern the seeming irregularity
+of that human life which the moralist bewails as the most uncertain of
+things; plague, pestilence, and famine are admitted, by all but fools,
+to be the natural result of causes for the most part fully within
+human control, and not the unavoidable tortures inflicted by wrathful
+Omnipotence upon His helpless handiwork.
+
+Harmonious order governing eternally continuous progress--the web and
+woof of matter and force interweaving by slow degrees, without a broken
+thread, that veil which lies between us and the Infinite--that universe
+which alone we know or can know; such is the picture which science draws
+of the world, and in proportion as any part of that picture is in unison
+with the rest, so may we feel sure that it is rightly painted. Shall
+Biology alone remain out of harmony with her sister sciences?
+
+Such arguments against the hypothesis of the direct creation of species
+as these are plainly enough deducible from general considerations; but
+there are, in addition, phenomena exhibited by species themselves, and
+yet not so much a part of their very essence as to have required earlier
+mention, which are in the highest degree perplexing, if we adopt the
+popularly accepted hypothesis. Such are the facts of distribution in
+space and in time; the singular phenomena brought to light by the study
+of development; the structural relations of species upon which
+our systems of classification are founded; the great doctrines of
+philosophical anatomy, such as that of homology, or of the community
+of structural plan exhibited by large groups of species differing very
+widely in their habits and functions.
+
+The species of animals which inhabit the sea on opposite sides of the
+isthmus of Panama are wholly distinct [4] the animals and plants which
+inhabit islands are commonly distinct from those of the neighbouring
+mainlands, and yet have a similarity of aspect.
+
+The mammals of the latest tertiary epoch in the Old and New Worlds
+belong to the same genera, or family groups, as those which now inhabit
+the same great geographical area. The crocodilian reptiles which existed
+in the earliest secondary epoch were similar in general structure to
+those now living, but exhibit slight differences in their vertebrae,
+nasal passages, and one or two other points. The guinea-pig has teeth
+which are shed before it is born, and hence can never subserve the
+masticatory purpose for which they seem contrived, and, in like manner,
+the female dugong has tusks which never cut the gum. All the members
+of the same great group run through similar conditions in their
+development, and all their parts, in the adult state, are arranged
+according to the same plan. Man is more like a gorilla than a gorilla is
+like a lemur. Such are a few, taken at random, among the multitudes
+of similar facts which modern research has established; but when the
+student seeks for an explanation of them from the supporters of the
+received hypothesis of the origin of species, the reply he receives
+is, in substance, of Oriental simplicity and brevity--"Mashallah! it
+so pleases God!" There are different species on opposite sides of the
+isthmus of Panama, because they were created different on the two sides.
+The pliocene mammals are like the existing ones, because such was the
+plan of creation; and we find rudimental organs and similarity of plan,
+because it has pleased the Creator to set before Himself a "divine
+exemplar or archetype," and to copy it in His works; and somewhat
+ill, those who hold this view imply, in some of them. That such verbal
+hocus-pocus should be received as science will one day be regarded as
+evidence of the low state of intelligence in the nineteenth century,
+just as we amuse ourselves with the phraseology about Nature's
+abhorrence of a vacuum, wherewith Torricelli's compatriots were
+satisfied to explain the rise of water in a pump. And be it recollected
+that this sort of satisfaction works not only negative but positive ill,
+by discouraging inquiry, and so depriving man of the usufruct of one of
+the most fertile fields of his great patrimony, Nature.
+
+The objections to the doctrine of the origin of species by special
+creation which have been detailed, must have occurred, with more or
+less force, to the mind of every one who has seriously and independently
+considered the subject. It is therefore no wonder that, from time to
+time, this hypothesis should have been met by counter hypotheses, all as
+well, and some better founded than itself; and it is curious to remark
+that the inventors of the opposing views seem to have been led into them
+as much by their knowledge of geology, as by their acquaintance with
+biology. In fact, when the mind has once admitted the conception of
+the gradual production of the present physical state of our globe, by
+natural causes operating through long ages of time, it will be little
+disposed to allow that living beings have made their appearance in
+another way, and the speculations of De Maillet and his successors are
+the natural complement of Scilla's demonstration of the true nature of
+fossils.
+
+A contemporary of Newton and of Leibnitz, sharing therefore in the
+intellectual activity of the remarkable age which witnessed the birth
+of modern physical science, Benoit de Maillet spent a long life as a
+consular agent of the French Government in various Mediterranean ports.
+For sixteen years, in fact, he held the office of Consul-General in
+Egypt, and the wonderful phenomena offered by the valley of the Nile
+appear to have strongly impressed his mind, to have directed his
+attention to all facts of a similar order which came within his
+observation, and to have led him to speculate on the origin of the
+present condition of our globe and of its inhabitants. But, with all his
+ardour for science, De Maillet seems to have hesitated to publish views
+which, notwithstanding the ingenious attempts to reconcile them with the
+Hebrew hypothesis contained in the preface to "Telliamed," were hardly
+likely to be received with favour by his contemporaries.
+
+But a short time had elapsed since more than one of the great anatomists
+and physicists of the Italian school had paid dearly for their
+endeavours to dissipate some of the prevalent errors; and their
+illustrious pupil, Harvey, the founder of modern physiology, had not
+fared so well, in a country less oppressed by the benumbing influences
+of theology, as to tempt any man to follow his example. Probably
+not uninfluenced by these considerations, his Catholic majesty's
+Consul-General for Egypt kept his theories to himself throughout a long
+life, for 'Telliamed,' the only scientific work which is known to have
+proceeded from his pen, was not printed till 1735, when its author had
+reached the ripe age of seventy-nine; and though De Maillet lived three
+years longer, his book was not given to the world before 1748. Even then
+it was anonymous to those who were not in the secret of the anagrammatic
+character of its title; and the preface and dedication are so worded as,
+in case of necessity, to give the printer a fair chance of falling back
+on the excuse that the work was intended for a mere 'jeu d'esprit'.
+
+The speculations of the suppositious Indian sage, though quite as sound
+as those of many a "Mosaic Geology," which sells exceedingly well, have
+no great value if we consider them by the light of modern science. The
+waters are supposed to have originally covered the whole globe; to have
+deposited the rocky masses which compose its mountains by processes
+comparable to those which are now forming mud, sand, and shingle; and
+then to have gradually lowered their level, leaving the spoils of their
+animal and vegetable inhabitants embedded in the strata. As the dry land
+appeared, certain of the aquatic animals are supposed to have taken to
+it, and to have become gradually adapted to terrestrial and aerial
+modes of existence. But if we regard the general tenor and style of
+the reasoning in relation to the state of knowledge of the day, two
+circumstances appear very well worthy of remark. The first, that De
+Maillet had a notion of the modifiability of living forms (though
+without any precise information on the subject), and how such
+modifiability might account for the origin of species; the second, that
+he very clearly apprehended the great modern geological doctrine,
+so strongly insisted upon by Hutton, and so ably and comprehensively
+expounded by Lyell, that we must look to existing causes for the
+explanation of past geological events. Indeed, the following passage
+of the preface, in which De Maillet is supposed to speak of the Indian
+philosopher Telliamed, his 'alter ego', might have been written by the
+most philosophical uniformitarian of the present day:--
+
+"Ce qu'il y a d'etonnant, est que pour arriver a ces connoissances il
+semble avoir perverti l'ordre naturel, puisqu'au lieu de s'attacher
+d'abord a rechercher l'origine de notre globe il a commence par
+travailler a s'instruire de la nature. Mais a l'entendre, ce
+renversement de l'ordre a ete pour lui l'effet d'un genie favorable
+qui l'a conduit pas a pas et comme par la main aux decouvertes les plus
+sublimes. C'est en decomposant la substance de ce globe par une anatomie
+exacte de toutes ses parties qu'il a premierement appris de quelles
+matieres il etait compose et quels arrangemens ces memes matieres
+observaient entre elles. Ces lumieres jointes a l'esprit de comparaison
+toujours necessaire a quiconque entreprend de percer les voiles dont
+la nature aime a se cacher, ont servi de guide a notre philosophe pour
+parvenir a des connoissances plus interessantes. Par la matiere et
+l'arrangement de ces compositions il pretend avoir reconnu quelle est la
+veritable origine de ce globe que nous habitons, comment et par qui il a
+ete forme."--Pp. xix. xx.
+
+But De Maillet was before his age, and as could hardly fail to happen
+to one who speculated on a zoological and botanical question before
+Linnaeus, and on a physiological problem before Haller, he fell into
+great errors here and there; and hence, perhaps, the general neglect of
+his work. Robinet's speculations are rather behind, than in advance
+of, those of De Maillet; and though Linnaeus may have played with
+the hypothesis of transmutation, it obtained no serious support
+until Lamarck adopted it, and advocated it with great ability in his
+'Philosophie Zoologique.'
+
+Impelled towards the hypothesis of the transmutation of species,
+partly by his general cosmological and geological views; partly by the
+conception of a graduated, though irregularly branching, scale of being,
+which had arisen out of his profound study of plants and of the lower
+forms of animal life, Lamarck, whose general line of thought often
+closely resembles that of De Maillet, made a great advance upon the
+crude and merely speculative manner in which that writer deals with
+the question of the origin of living beings, by endeavouring to find
+physical causes competent to effect that change of one species into
+another, which De Maillet had only supposed to occur. And Lamarck
+conceived that he had found in Nature such causes, amply sufficient for
+the purpose in view. It is a physiological fact, he says, that organs
+are increased in size by action, atrophied by inaction; it is another
+physiological fact that modifications produced are transmissible to
+offspring. Change the actions of an animal, therefore, and you will
+change its structure, by increasing the development of the parts newly
+brought into use and by the diminution of those less used; but by
+altering the circumstances which surround it you will alter its actions,
+and hence, in the long run, change of circumstance must produce
+change of organization. All the species of animals, therefore, are,
+in Lamarck's view, the result of the indirect action of changes of
+circumstance, upon those primitive germs which he considered to have
+originally arisen, by spontaneous generation, within the waters of the
+globe. It is curious, however, that Lamarck should insist so strongly
+[5] as he has done, that circumstances never in any degree directly
+modify the form or the organization of animals, but only operate by
+changing their wants and consequently their actions; for he thereby
+brings upon himself the obvious question, how, then, do plants, which
+cannot be said to have wants or actions, become modified? To this
+he replies, that they are modified by the changes in their nutritive
+processes, which are effected by changing circumstances; and it does not
+seem to have occurred to him that such changes might be as well supposed
+to take place among animals.
+
+
+When we have said that Lamarck felt that mere speculation was not the
+way to arrive at the origin of species, but that it was necessary,
+in order to the establishment of any sound theory on the subject, to
+discover by observation or otherwise, some 'vera causa', competent to
+give rise to them; that he affirmed the true order of classification to
+coincide with the order of their development one from another; that he
+insisted on the necessity of allowing sufficient time, very strongly;
+and that all the varieties of instinct and reason were traced back by
+him to the same cause as that which has given rise to species, we have
+enumerated his chief contributions to the advance of the question. On
+the other hand, from his ignorance of any power in Nature competent to
+modify the structure of animals, except the development of parts, or
+atrophy of them, in consequence of a change of needs, Lamarck was led
+to attach infinitely greater weight than it deserves to this agency,
+and the absurdities into which he was led have met with deserved
+condemnation. Of the struggle for existence, on which, as we shall see,
+Mr. Darwin lays such great stress, he had no conception; indeed, he
+doubts whether there really are such things as extinct species, unless
+they be such large animals as may have met their death at the hands of
+man; and so little does he dream of there being any other destructive
+causes at work, that, in discussing the possible existence of fossil
+shells, he asks, "Pourquoi d'ailleurs seroient-ils perdues des que
+l'homme n'a pu operer leur destruction?" ('Phil. Zool.,' vol. i. p. 77.)
+Of the influence of selection Lamarck has as little notion, and he makes
+no use of the wonderful phenomena which are exhibited by domesticated
+animals, and illustrate its powers. The vast influence of Cuvier was
+employed against the Lamarckian views, and, as the untenability of
+some of his conclusions was easily shown, his doctrines sank under the
+opprobrium of scientific, as well as of theological, heterodoxy.
+Nor have the efforts made of late years to revive them tended to
+re-establish their credit in the minds of sound thinkers acquainted with
+the facts of the case; indeed it may be doubted whether Lamarck has not
+suffered more from his friends than from his foes.
+
+Two years ago, in fact, though we venture to question if even the
+strongest supporters of the special creation hypothesis had not, now
+and then, an uneasy consciousness that all was not right, their position
+seemed more impregnable than ever, if not by its own inherent strength,
+at any rate by the obvious failure of all the attempts which had been
+made to carry it. On the other hand, however much the few, who thought
+deeply on the question of species, might be repelled by the generally
+received dogmas, they saw no way of escaping from them save by the
+adoption of suppositions so little justified by experiment or by
+observation as to be at least equally distasteful.
+
+The choice lay between two absurdities and a middle condition of uneasy
+scepticism; which last, however unpleasant and unsatisfactory, was
+obviously the only justifiable state of mind under the circumstances.
+
+Such being the general ferment in the minds of naturalists, it is no
+wonder that they mustered strong in the rooms of the Linnaean Society,
+on the 1st of July of the year 1858, to hear two papers by authors
+living on opposite sides of the globe, working out their results
+independently, and yet professing to have discovered one and the same
+solution of all the problems connected with species. The one of these
+authors was an able naturalist, Mr. Wallace, who had been employed for
+some years in studying the productions of the islands of the Indian
+Archipelago, and who had forwarded a memoir embodying his views to
+Mr. Darwin, for communication to the Linnaean Society. On perusing the
+essay, Mr. Darwin was not a little surprised to find that it embodied
+some of the leading ideas of a great work which he had been preparing
+for twenty years, and parts of which, containing a development of the
+very same views, had been perused by his private friends fifteen or
+sixteen years before. Perplexed in what manner to do full justice both
+to his friend and to himself, Mr. Darwin placed the matter in the hands
+of Dr. Hooker and Sir Charles Lyell, by whose advice he communicated
+a brief abstract of his own views to the Linnaean Society, at the same
+time that Mr. Wallace's paper was read. Of that abstract, the work on
+the 'Origin of Species' is an enlargement; but a complete statement of
+Mr. Darwin's doctrine is looked for in the large and well-illustrated
+work which he is said to be preparing for publication.
+
+The Darwinian hypothesis has the merit of being eminently simple and
+comprehensible in principle, and its essential positions may be stated
+in a very few words: all species have been produced by the development
+of varieties from common stocks; by the conversion of these, first into
+permanent races and then into new species, by the process of 'natural
+selection', which process is essentially identical with that artificial
+selection by which man has originated the races of domestic animals--the
+'struggle for existence' taking the place of man, and exerting, in the
+case of natural selection, that selective action which he performs in
+artificial selection.
+
+The evidence brought forward by Mr. Darwin in support of his hypothesis
+is of three kinds. First, he endeavours to prove that species may be
+originated by selection; secondly, he attempts to show that natural
+causes are competent to exert selection; and thirdly, he tries to prove
+that the most remarkable and apparently anomalous phenomena exhibited by
+the distribution, development, and mutual relations of species, can be
+shown to be deducible from the general doctrine of their origin, which
+he propounds, combined with the known facts of geological change; and
+that, even if all these phenomena are not at present explicable by it,
+none are necessarily inconsistent with it.
+
+There cannot be a doubt that the method of inquiry which Mr. Darwin
+has adopted is not only rigorously in accordance with the canons of
+scientific logic, but that it is the only adequate method. Critics
+exclusively trained in classics or in mathematics, who have never
+determined a scientific fact in their lives by induction from experiment
+or observation, prate learnedly about Mr. Darwin's method, which is not
+inductive enough, not Baconian enough, forsooth, for them. But even if
+practical acquaintance with the process of scientific investigation
+is denied them, they may learn, by the perusal of Mr. Mill's admirable
+chapter "On the Deductive Method," that there are multitudes of
+scientific inquiries in which the method of pure induction helps the
+investigator but a very little way.
+
+"The mode of investigation," says Mr. Mill, "which, from the proved
+inapplicability of direct methods of observation and experiment, remains
+to us as the main source of the knowledge we possess, or can acquire,
+respecting the conditions and laws of recurrence of the more complex
+phenomena, is called, in its most general expression, the deductive
+method, and consists of three operations: the first, one of
+direct induction; the second, of ratiocination; and the third, of
+verification."
+
+Now, the conditions which have determined the existence of species are
+not only exceedingly complex, but, so far as the great majority of
+them are concerned, are necessarily beyond our cognizance. But what Mr.
+Darwin has attempted to do is in exact accordance with the rule laid
+down by Mr. Mill; he has endeavoured to determine certain great facts
+inductively, by observation and experiment; he has then reasoned from
+the data thus furnished; and lastly, he has tested the validity of his
+ratiocination by comparing his deductions with the observed facts of
+Nature. Inductively, Mr. Darwin endeavours to prove that species arise
+in a given way. Deductively, he desires to show that, if they arise in
+that way, the facts of distribution, development, classification, etc.,
+may be accounted for, 'i.e.' may be deduced from their mode of origin,
+combined with admitted changes in physical geography and climate, during
+an indefinite period. And this explanation, or coincidence of observed
+with deduced facts, is, so far as it extends, a verification of the
+Darwinian view.
+
+There is no fault to be found with Mr. Darwin's method, then; but it is
+another question whether he has fulfilled all the conditions imposed by
+that method. Is it satisfactorily proved, in fact, that species may
+be originated by selection? that there is such a thing as natural
+selection? that none of the phenomena exhibited by species are
+inconsistent with the origin of species in this way? If these questions
+can be answered in the affirmative, Mr. Darwin's view steps out of the
+rank of hypotheses into those of proved theories; but, so long as the
+evidence at present adduced falls short of enforcing that affirmation,
+so long, to our minds, must the new doctrine be content to remain among
+the former--an extremely valuable, and in the highest degree probable,
+doctrine, indeed the only extant hypothesis which is worth anything in a
+scientific point of view; but still a hypothesis, and not yet the theory
+of species.
+
+After much consideration, and with assuredly no bias against Mr.
+Darwin's views, it is our clear conviction that, as the evidence stands,
+it is not absolutely proven that a group of animals, having all the
+characters exhibited by species in Nature, has ever been originate
+by selection, whether artificial or natural. Groups having the
+morphological character of species, distinct and permanent races
+in fact, have been so produced over and over again; but there is
+no positive evidence, at present, that any group of animals has, by
+variation and selective breeding, given rise to another group which
+was, even in the least degree, infertile with the first. Mr. Darwin is
+perfectly aware of this weak point, and brings forward a multitude
+of ingenious and important arguments to diminish the force of the
+objection. We admit the value of these arguments to their fullest
+extent; nay, we will go so far as to express our belief that
+experiments, conducted by a skilful physiologist, would very probably
+obtain the desired production of mutually more or less infertile breeds
+from a common stock, in a comparatively few years; but still, as the
+case stands at present, this "little rift within the lute" is not to be
+disguised nor overlooked.
+
+In the remainder of Mr. Darwin's argument our own private ingenuity
+has not hitherto enabled us to pick holes of any great importance; and
+judging by what we hear and read, other adventurers in the same field
+do not seem to have been much more fortunate. It has been urged, for
+instance, that in his chapters on the struggle for existence and on
+natural selection, Mr. Darwin does not so much prove that natural
+selection does occur, as that it must occur; but, in fact, no other sort
+of demonstration is attainable. A race does not attract our attention
+in Nature until it has, in all probability, existed for a considerable
+time, and then it is too late to inquire into the conditions of its
+origin. Again, it is said that there is no real analogy between the
+selection which takes place under domestication, by human influence,
+and any operation which can be effected by Nature, for man interferes
+intelligently. Reduced to its elements, this argument implies that an
+effect produced with trouble by an intelligent agent must, 'a fortiori',
+be more troublesome, if not impossible, to an unintelligent agent. Even
+putting aside the question whether Nature, acting as she does according
+to definite and invariable laws, can be rightly called an unintelligent
+agent, such a position as this is wholly untenable. Mix salt and sand,
+and it shall puzzle the wisest of men, with his mere natural appliances,
+to separate all the grains of sand from all the grains of salt; but a
+shower of rain will effect the same object in ten minutes. And so, while
+man may find it tax all his intelligence to separate any variety which
+arises, and to breed selectively from it, the destructive agencies
+incessantly at work in Nature, if they find one variety to be more
+soluble in circumstances than the other, will inevitably, in the long
+run, eliminate it.
+
+A frequent and a just objection to the Lamarckian hypothesis of the
+transmutation of species is based upon the absence of transitional forms
+between many species. But against the Darwinian hypothesis this argument
+has no force. Indeed, one of the most valuable and suggestive parts of
+Mr. Darwin's work is that in which he proves, that the frequent absence
+of transitions is a necessary consequence of his doctrine, and that
+the stock whence two or more species have sprung, need in no respect be
+intermediate between these species. If any two species have arisen from
+a common stock in the same way as the carrier and the pouter, say, have
+arisen from the rock-pigeon, then the common stock of these two species
+need be no more intermediate between the two than the rock-pigeon is
+between the carrier and pouter. Clearly appreciate the force of
+this analogy, and all the arguments against the origin of species by
+selection, based on the absence of transitional forms, fall to the
+ground. And Mr. Darwin's position might, we think, have been even
+stronger than it is if he had not embarrassed himself with the aphorism,
+"Natura non facit saltum," which turns up so often in his pages. We
+believe, as we have said above, that Nature does make jumps now and
+then, and a recognition of the fact is of no small importance in
+disposing of many minor objections to the doctrine of transmutation.
+
+But we must pause. The discussion of Mr. Darwin's arguments in detail
+would lead us far beyond the limits within which we proposed, at
+starting, to confine this article. Our object has been attained if we
+have given an intelligible, however brief, account of the established
+facts connected with species, and of the relation of the explanation of
+those facts offered by Mr. Darwin to the theoretical views held by his
+predecessors and his contemporaries, and, above all, to the requirements
+of scientific logic. We have ventured to point out that it does not, as
+yet, satisfy all those requirements; but we do not hesitate to assert
+that it is as superior to any preceding or contemporary hypothesis, in
+the extent of observational and experimental basis on which it rests,
+in its rigorously scientific method, and in its power of explaining
+biological phenomena, as was the hypothesis of Copernicus to the
+speculations of Ptolemy. But the planetary orbits turned out to be
+not quite circular after all, and, grand as was the service Copernicus
+rendered to science, Kepler and Newton had to come after him. What if
+the orbit of Darwinism should be a little too circular? What if species
+should offer residual phenomena, here and there, not explicable by
+natural selection? Twenty years hence naturalists may be in a position
+to say whether this is, or is not, the case; but in either event they
+will owe the author of 'The Origin of Species' an immense debt of
+gratitude. We should leave a very wrong impression on the reader's
+mind if we permitted him to suppose that the value of that work depends
+wholly on the ultimate justification of the theoretical views which it
+contains. On the contrary, if they were disproved to-morrow, the book
+would still be the best of its kind--the most compendious statement
+of well-sifted facts bearing on the doctrine of species that has ever
+appeared. The chapters on Variation, on the Struggle for Existence, on
+Instinct, on Hybridism, on the Imperfection of the Geological Record, on
+Geographical Distribution, have not only no equals, but, so far as
+our knowledge goes, no competitors, within the range of biological
+literature. And viewed as a whole, we do not believe that, since the
+publication of Von Baer's Researches on Development, thirty years ago,
+any work has appeared calculated to exert so large an influence, not
+only on the future of Biology, but in extending the domination of
+Science over regions of thought into which she has, as yet, hardly
+penetrated.
+
+
+
+[Footnote 1: 'The Westminster Review', April 1860.]
+
+[Footnote 2: On the Osteology of the Chimpanzees and Orangs:
+Transactions of the Zoological Society, 1858.]
+
+[Footnote 3: Colonel Humphreys' statements are exceedingly explicit
+on this point:--"When an Ancon ewe is impregnated by a common ram, the
+increase resembles wholly either the ewe or the ram. The increase of the
+common ewe impregnated by an Ancon ram follows entirely the one or
+the other, without blending any of the distinguishing and essential
+peculiarities of both. Frequent instances have happened where common
+ewes have had twins by Ancon rams, when one exhibited the complete marks
+and features of the ewe, the other of the ram. The contrast has been
+rendered singularly striking, when one short-legged and one long-legged
+lamb, produced at a birth, have been seen sucking the dam at the same
+time."--'Philosophical Transactions', 1813, Pt. I. pp. 89, 90.]
+
+[Footnote 4: Recent investigations tend to show that this statement is
+not strictly accurate.--1870.]
+
+[Footnote 5: See 'Phil. Zoologique,' vol. i. p. 222, 'et seq.']
+

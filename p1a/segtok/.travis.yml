@@ -1,0 +1,11 @@
+language: python
+python: 3.6
+env:
+- TOXENV=py27
+- TOXENV=py27-locale
+- TOXENV=py33
+- TOXENV=py36
+install:
+- pip install tox
+script:
+- tox
