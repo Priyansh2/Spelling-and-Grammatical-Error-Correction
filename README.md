@@ -1,5 +1,5 @@
-# NLP_P1
-This repository contain code and data of project "Spelling and Grammatical Error Detection/Correction using Naive Bayes".
+# Spellin and Grammatical Error Detection-Correction
+Built a system from scratch in Python which can detect spelling and grammatical errors in a word and sentence respectively using N-gram based Smoothed-Language Model, Levenshtein Distance, Hidden Markov Model and Naive Bayes Classifier.
 
 # Brief Overview of Problem
 A task is given in which goal is to build a system from scratch which is capable enough to detect and correct spelling and grammatical errors of given word and a sentence respectively. This whole task is split into two parts: (i) Spelling Error Detection-Correction Task and (ii) Grammatical Error Detection-Correction Task. 
