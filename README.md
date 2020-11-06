@@ -1,9 +1,6 @@
 # NLP_P1
 This repository contain code and data of project "Spelling and Grammatical Error Detection/Correction using Naive Bayes".
 
-## This Project is incomplete for now and will be completed in future whenever I get time !!
-
-
 # Brief Overview of Problem
 A task is given in which goal is to build a system from scratch which is capable enough to detect and correct spelling and grammatical errors of given word and a sentence respectively. This whole task is split into two parts: (i) Spelling Error Detection-Correction Task and (ii) Grammatical Error Detection-Correction Task. 
 
