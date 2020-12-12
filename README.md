@@ -1,8 +1,8 @@
-# Spelling and Grammatical Error Detection-Correction
+# Spelling and Grammatical Error Detection
 Built a system from scratch in Python which can detect spelling and grammatical errors in a word and sentence respectively using N-gram based Smoothed-Language Model, Levenshtein Distance, Hidden Markov Model and Naive Bayes Classifier.
 
 # Brief Overview of Problem
-A task is given in which goal is to build a system from scratch which is capable enough to detect and correct spelling and grammatical errors of given word and a sentence respectively. This whole task is split into two parts: (i) Spelling Error Detection-Correction Task and (ii) Grammatical Error Detection-Correction Task. 
+The task is to build a system from scratch which can detect spelling and grammatical errors of given word and a sentence respectively. This whole task is split into two parts: (i) Spelling Error Detection-Correction Task and (ii) Grammatical Error Detection-Correction Task. 
 
 ## Spelling Error Detection-Correction Task
 The goal of this task is to build a system which can correct spelling-error (if there exists) in an input single-word and also can judge a sentence regarding its grammatical correctness. This judging is based on some kind of score aka 'score of grammaticality' which can tell how grammatical a sentence is. For example : '_I have a red apple_' should have a higher score than '_apple a have I red_'. This whole module can be divided into following modules.
