@@ -1,4 +1,4 @@
-# Spelling and Grammatical Error Detection
+# Spelling and Grammatical Error Detection [Incomplete Project]
 Built a system from scratch in Python which can detect spelling and grammatical errors in a word and sentence respectively using N-gram based Smoothed-Language Model, Levenshtein Distance, Hidden Markov Model and Naive Bayes Classifier.
 
 # Brief Overview of Problem
