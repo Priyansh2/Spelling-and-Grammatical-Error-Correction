@@ -18,6 +18,6 @@ The aim is to build a system that can correct spelling error (if there exists) i
 ## Grammatical Error Detection-Correction Task
 The aim is to build a system that can detect grammatical errors in a user-given sentence and correct the error type. For the classification of different error types, use 'Naive Bayes'. The sub-tasks are mentioned below.
 
-**1. Error Detection:** Given sentence in a tokenized form (see problem statement in p2b for more detail). For each token, determine if a grammatical error exists and classify the identified error category into one of 28 classes of error types whose description is given in 'table1' of the [paper](https://www.comp.nus.edu.sg/~nlp/conll14st/CoNLLST01.pdf). 
+**1. Error Detection:** Given sentence in a tokenized form (see problem statement in ```p1b``` for more detail). For each token, determine if a grammatical error exists and classify the identified error category into one of 28 classes of error types whose description is given in 'table1' of the [paper](https://www.comp.nus.edu.sg/~nlp/conll14st/CoNLLST01.pdf). 
 
 **2. Error Correction:** Once all the errors are identified and classified, give the suitable correction for each of the grammatical errors present in the sentence. 
